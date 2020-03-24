@@ -1,0 +1,902 @@
+,Abstract,Task 1
+7,"Given initial and final configurations of the Dubins vehicle, and a midpoint with an unconstrained heading, the objective is to compute the midpoint heading that minimizes the total Dubins path length.",OTHERS
+99,CIFAR-10) from those of house numbers (i.e.,OTHERS
+100,"SVHN), assigning a higher likelihood to the latter when the model is trained on the former.",OTHERS
+169,"Note that such an automatic classification can have far-reaching impact - (i) on health research related to addiction prevention and control, and (ii) in eliminating abusive and vulgar contents from Twitter, borne by the tweets of drunk texters.",OTHERS
+301,"Power management techniques aid in obtaining a uniform power profile throughout the chip, but we propose an algorithm using minimum bipartite matching where we try to move the sources minimally (with minimum perturbation in the chip floor plan) near cooler points (blocks) to obtain a uniform power profile due to diffusion of heat from hotter point to cooler ones.",OTHERS
+311,Our implementation is available at https://github.com/Khurramjaved96/incremental-learning.,OTHERS
+325,2015 is the centennial of Einstein General Relativity.,OTHERS
+341,"Furthermore, a novel, computationally efficient and modular communication interface is presented that enables researchers to straight-forwardly test their control algorithms in large-eddy simulations.",OTHERS
+416,"While intuitively reasonable, it is not obvious or straightforward that both variables can be replaced simultaneously.",OTHERS
+430,"In this paper, we present DiscreteZOO, a project which illustrates some of the possibilities for computer-supported management of collections of finite combinatorial (discrete) objects, in particular graphs with a high degree of symmetry.",OTHERS
+431,"DiscreteZOO encompasses a data repository, a website and a SageMath Package.",OTHERS
+461,"Several examples are discussed, with a special focus on electrical impedance tomography.",OTHERS
+499,Evtimov et al.,OTHERS
+505,Such a pattern would be of great theoretical and practical interest.,OTHERS
+512,"These results also help to show the relationship between the depth, regularization, and stability of the feature space.",OTHERS
+513,Computational experiments on the proposed variants show that the accuracy of ResNet is preserved and that the accuracy seems to be monotone with respect to the depth and various corruptions.,OTHERS
+615,We complement our contribution with a list of significant open problems for the community to address.,OTHERS
+643,The results open opportunities for improving developers' performance by integrating the study of sleep with other psycho-physiological factors in which the software engineering research community has recently taken an interest in.,OTHERS
+667,Furthermore in the spirit of reproducible research we have publicly released the source code for k-SSC,OTHERS
+808,"The resultant anisotropy, which can be detrimental in many applications, can be decreased using image interpolation.",OTHERS
+809,Optical flow and/or other registration-based interpolators have proven useful in such interpolation roles in the past.,OTHERS
+854,We experimentally demonstrate effectiveness of this approach by synthesizing a controller for an HVAC system.,OTHERS
+886,The MATLAB code for relevant simulations is available online at https://goo.gl/Uw7E0W.,OTHERS
+897,The labeled dataset is available at: https://osf.io/d45bw/.,OTHERS
+925,Numerical tests using synthetic data and real images validate the effectiveness of the algorithm and the practical merits of the theory.,OTHERS
+1103,The code is available at https://github.com/wuhuikai/DeepGuidedFilter.,OTHERS
+1149,Availability: The latest version of EBIC could be downloaded from http://github.com/EpistasisLab/ebic .,OTHERS
+1150,Installation and usage instructions are also available online.,OTHERS
+1383,"This is a rather imperative approach, in its spirit.",OTHERS
+1406,Bondarenko in 1983.,OTHERS
+1409,"Little, K.G.",OTHERS
+1410,"Murty, D.W. Sweeney, C. Karel in 1963.",OTHERS
+1429,The system is publicly available at https://polyhedral.eecs.yorku.ca.,OTHERS
+1444,"By positive speech we understand speech that works for the betterment of a given situation, in this case relations between different communities in a conflict-prone country.",OTHERS
+1445,We worked with four Twitter data sets.,OTHERS
+1526,"Finally, we present the comparison of several knowledge-aware recommendation algorithms on our linked dataset.",OTHERS
+1539,We expect that by studying these examples we will be able to develop a general theory separating axiomatizable and non-axiomatizable semantics.,OTHERS
+1591,"Convolutional neural networks (CNNs) show impressive performance for image classification and detection, extending heavily to the medical image domain.",OTHERS
+1736,"To explain these counterintuitive results, we draw connections to adversarial examples and confidence calibration: pathological behaviors reveal difficulties in interpreting neural models trained with maximum likelihood.",OTHERS
+1790,The proposed method is evaluated using a geological carbon storage process-based multiphase flow model with a 2500-dimensional stochastic permeability field.,OTHERS
+2057,The whole field of system security is limitless and in an evolutionary stage.,OTHERS
+2078,We demonstrate the benefits of our network coding framework through simulations.,OTHERS
+2120,PyPhi can be installed with Python's package manager via the command 'pip install pyphi' on Linux and macOS systems equipped with Python 3.4 or higher.,OTHERS
+2121,PyPhi is open-source and licensed under the GPLv3; the source code is hosted on GitHub at https://github.com/wmayner/pyphi .,OTHERS
+2122,Comprehensive and continually-updated documentation is available at https://pyphi.readthedocs.io/ .,OTHERS
+2123,The pyphi-users mailing list can be joined at https://groups.google.com/forum/#!forum/pyphi-users .,OTHERS
+2124,A web-based graphical interface to the software is available at http://integratedinformationtheory.org/calculate.html .,OTHERS
+2333,"In 2016, a group of researchers at MIT have developed an automated DNA nanostructures strategy and an open source software 'daedalus' based on MATLAB for developing the nanostructures.",OTHERS
+2363,Big data is also considered as an inherent element of most smart city project that must be tackled.,OTHERS
+2442,Would you like to have your own cryptography method?,OTHERS
+2457,Type of a nonlinear system is the subject of calcula-tions.,OTHERS
+2460,The results of identification used in real systems are an application.,OTHERS
+2475,The source code using Keras framework is publicly available.,OTHERS
+2509,"As well, in the last section of this paper, we present a proposal of KM metrics for PSO, and some recommendations and practical implications for KM metrics development in PSO.",OTHERS
+2510,This academic endeavour seeks to contribute to theoretical debate about KM measure development for KM initiatives in PSO.,OTHERS
+2755,"Specifically, we used a manually curated dataset from 12 genomic single nucleotide polymorphism array (SNPa) profiles as truth-set and aimed at predicting the presence or absence of genomic breakpoints, an indicator of structural chromosomal variations, in windows of 40,000 probes.",OTHERS
+2780,The code and pre-trained models will be publicly available at https://github.com/tourmaline612/RTINet.,OTHERS
+2823,"Specifically, we discuss the effectiveness and practicality of potential countermeasures, such as precautionary testing and runtime diagnostic.",OTHERS
+2901,The Kmerlight tool is written in C++ and is available for download and use from https://github.com/nsivad/kmerlight.,OTHERS
+2913,The results of the paper will be used in future studies of studying dynamics of cities with living excitable substrates.,OTHERS
+3004,"The basic physical tool of our theorization, we call Quantum State Selection, consists in the twin-combined measurement process through positive valued measure operator (POVM), needed to provide the quantum oracle's answer.",OTHERS
+3092,"Moreover, some models require strictly paired training data which largely limits their usage scenarios.",OTHERS
+3135,A Matlab implementation of the proposed solution is included in the paper.,OTHERS
+3331,This software concerns economic effectiveness evaluation for construction projects.,OTHERS
+3447,The model is trained and validated by using the driving data collected from the Beijing Institute of Technology intelligent vehicle platform.,OTHERS
+3457,The code is publicly available.,OTHERS
+3499,Stat.,OTHERS
+3500,Mech.,OTHERS
+3501,Theo.,OTHERS
+3502,Exp.,OTHERS
+3503,09 doi:10.1088/1742.-5468/2006/09/P09011).,OTHERS
+3512,Keywords: Metagenomics; Deep learning; Convolutional Neural Networks; Phylogenetic trees,OTHERS
+3716,"As a result, supercomputer sites and data centers have changed from providing high performance floating point computing capabilities to concurrently servicing huge number of requests from billions of users.",OTHERS
+3735,This chapter provides a basic introduction to the underlying ideas of how to come to a supervised classification problem.,OTHERS
+3736,"In addition, it provides an overview of some specific classification techniques, delves into the issues of object representation and classifier evaluation, and (very) briefly covers some variations on the basic supervised classification task that may also be of interest to the practitioner.",OTHERS
+3757,Simulation results corroborating the theory are also provided.,OTHERS
+3826,This paper suggests that there is a significant gap between the perceived potential of social media and the entrepreneurial behaviors at the social context in business-to-business (B2B) companies.,OTHERS
+3832,This permits the decoder to softly decide what portions of the latent hierarchy to condition on by attending over the value embeddings for a given setting.,OTHERS
+3835,"A unique non-commercial dataset, the University of Maryland Active Authentication Dataset 02 (UMDAA-02) for multi-modal user authentication research is introduced.",OTHERS
+3836,"This paper focuses on three sensors - front camera, touch sensor and location service while providing a general description for other modalities.",OTHERS
+3838,The dataset will be made available to the research community for promoting additional research.,OTHERS
+3905,Inference of space-time varying signals on graphs emerges naturally in a plethora of network science related applications.,OTHERS
+3906,"A frequently encountered challenge pertains to reconstructing such dynamic processes, given their values over a subset of vertices and time instants.",OTHERS
+4020,(The code is publicly available at: http://castle.strw.leidenuniv.nl/software.html) The tree construction and traverse algorithms are portable to many-core devices which have support for CUDA or OpenCL programming languages.,OTHERS
+4035,Human activity recognition based on wearable sensor data has been an attractive research topic due to its application in areas such as healthcare and smart environments.,OTHERS
+4036,"In this context, many works have presented remarkable results using accelerometer, gyroscope and magnetometer data to represent the activities categories.",OTHERS
+4037,"However, current studies do not consider important issues that lead to skewed results, making it hard to assess the quality of sensor-based human activity recognition and preventing a direct comparison of previous works.",OTHERS
+4039,"We emphasize that in other research areas, such as image classification and object detection, these issues are already well-defined, which brings more efforts towards the application.",OTHERS
+4055,The Python programs in this study are freely available to the public at https://github.com/cyinbox/iCGR,OTHERS
+4085,"Moreover, we have released our implementation as an OCR product which is available for public access.",OTHERS
+4369,Some of the open research challenges are also put forward.,OTHERS
+4422,Under consideration in Theory and Practice of Logic Programming (TPLP).,OTHERS
+4616,Deep RTS is publicly available at https://github.com/cair/DeepRTS.,OTHERS
+4628,"In addi- tion, the model provides avenues for interesting extensions, such as robustness against noisy in- puts and optimizing over parameters in activation functions.",OTHERS
+4646,A discussion follows on strengths and weaknesses of labeled datasets used in this study for future efforts to evaluate author name disambiguation on a digital library scale.,OTHERS
+4860,The predictive performance of CBR is a dataset dependent and subject to extremely large space of configuration possibilities.,OTHERS
+4861,"Regardless of the type of adaptation technique, deciding on the optimal number of similar cases to be used before applying CBR is a key challenge.",OTHERS
+5276,We consider the problem of cooperative output regulation for linear multi-agent systems.,OTHERS
+5293,We demonstrate these results computationally with a multilayer feedforward neural network.,OTHERS
+5446,"As examples, the Lorenz system and Liu system excited by the sparse multi-tone signals are taken to illustrate the principle and the performance.",OTHERS
+5459,"In addition, a graphical interface was built to handle with both methods Z- TODIM and Z-TOPSIS allowing ease of use for user in other areas of knowledge.",OTHERS
+5544,"This report describes my research activities in the Hasso Plattner Institute and summarizes my Ph.D. plan and several novels, end-to-end trainable approaches for analyzing medical images using deep learning algorithm.",OTHERS
+5546,This report prepared for the doctoral consortium in the AIME-2017 conference.,OTHERS
+5561,"Beyond that, we classify the existing methods in different categories so as to have a better idea of the popularity of each type of solution procedure.",OTHERS
+5601,We put special emphasis on everyday human-computer interface applications to distinguish from the more common clinical or sports uses of psychophysiology.,OTHERS
+5602,"This paper is an extract from a comprehensive review of the entire field of ambulatory psychophysiology, including 12 similar chapters, plus application guidelines and systematic review.",OTHERS
+5603,"Thus any citation should be made using the following reference:   B. Cowley, M. Filetti, K. Lukander, J. Torniainen, A. Henelius, L. Ahonen, O. Barral, I. Kosunen, T. Valtonen, M. Huotilainen, N. Ravaja, G. Jacucci.",OTHERS
+5604,The Psychophysiology Primer: a guide to methods and a broad review with a focus on human-computer interaction.,OTHERS
+5605,"Foundations and Trends in Human-Computer Interaction, vol.",OTHERS
+5606,"9, no.",OTHERS
+5607,"3-4, pp.",OTHERS
+5608,"150--307, 2016.",OTHERS
+5669,(2017).,OTHERS
+5751,We propose and examine a design that takes particular advantage of recent advances in the understanding of both Convolutional Neural Networks as well as ResNets.,OTHERS
+5754,"As in other fully convolutional approaches, our pipeline can be used off-the-shelf on different image modalities.",OTHERS
+5774,The source code for the complete system are publicly available.,OTHERS
+5932,Nazr-CNN consists of two components.,OTHERS
+5935,To showcase our approach we use data from UAVs that were deployed to assess the level of damage in the aftermath of a devastating cyclone that hit the island of Vanuatu in 2015.,OTHERS
+5957,"While both generalization methods leave room for improvement, our work shows that (i) local trajectory-based controllers for complex non-prehensile manipulation tasks can be constructed from surprisingly small amounts of training data, and (ii) collections of such controllers can be interpolated to form more global controllers.",OTHERS
+6020,"Our dataset, codes and trained models are available online at https://github.com/GKalliatakis/Human-Rights-Archive-CNNs.",OTHERS
+6039,We anticipate that this approach will improve the accessibility of the Futamura Projections and help foster analysis of those new tools through the lens of partial evaluation.,OTHERS
+6047,"Our observations imply several prospective uses of engagement metrics -- choosing engaging topics for video production, or promoting engaging videos in recommender systems.",OTHERS
+6152,In fact in the past two decades researchers have tried to integrate reality and VR in the form of intuitive computer interface.,OTHERS
+6154,However despite the extensive research efforts in creating virtual system environments it is yet to become apparent in normal daily life.,OTHERS
+6162,Our work offers several contributions.,OTHERS
+6165,"Keywords: Vertex Centrality Measures, Neural Networks, Complex Network Models, Machine Learning, Regression Model",OTHERS
+6304,They should see it as a funny game.,OTHERS
+6339,"In this paper we motivate, formalize and present our approach.",OTHERS
+6504,"These convergence results are deterministic, i.e., they establish sample path convergence for arbitrary sequences of delay patterns or distributions on the nodes, and are independent of the tail behavior of the delay distribution.",OTHERS
+6510,"Therefore, there seems to be a waste of capacity in this practice.",OTHERS
+6572,"Finally, the PPE is put in perspective with existing literature (Newcomb's Problem, Superrationality, Nash Equilibrium, Subgame Perfect Equilibrium, Backward Induction Paradox, Forward Induction).",OTHERS
+6657,A re-kindling of interest in unsupervised representation learning makes this technique timely and more effective.,OTHERS
+6658,"It is a simple proposal, but to-date one that has not been tested empirically.",OTHERS
+6694,Are human perception and decision biases grounded in a form of rationality?,OTHERS
+6695,You return to your camp after hunting or gathering.,OTHERS
+6696,You see the grass moving.,OTHERS
+6697,You do not know the probability that a snake is in the grass.,OTHERS
+6698,"Should you cross the grass - at the risk of being bitten by a snake - or make a long, hence costly, detour?",OTHERS
+6736,The paradox is inspired by real life norms.,OTHERS
+6773,The dataset is available at: http://cs.gmu.edu/~robot/gmu-kitchens.html.,OTHERS
+6778,The underlying algorithm and ideas generalize from finding and monitoring subgraphs to the more general problem of computing and maintaining relational equi-joins over dynamic relations.,OTHERS
+6794,The proposed receiver is observed to be robust with improved bit error rate performance as compared to a blanking receiver in the presence of impulse noise.,OTHERS
+6798,These findings also corroborate a similar phenomenon observed in practice.,OTHERS
+6832,This paper is under consideration for publication in Theory and Practice of Logic Programming (TPLP).,OTHERS
+6905,"To the best of our knowledge, previous IQA methods have not considered this fact.",OTHERS
+6912,The MATLAB code is publicly available to test the algorithm and can be found online at http://layek.khu.ac.kr/CEQI.,OTHERS
+6932,"A salient feature of the approach through monoidal categories is the formal graphical language of string diagrams, which supports visual reasoning about programs and computations.",OTHERS
+7099,"Sharing data from various sources and of diverse kinds, and fusing them together for sophisticated analytics and mash-up applications are emerging trends, and are prerequisites for grand visions such as that of cyber-physical systems enabled smart cities.",OTHERS
+7146,Detailed experi- ments demonstrate the effectiveness of our two-phase learn- ing in each task.,OTHERS
+7312,"Future advancements in robot autonomy and sophistication of robotics tasks rest on robust, efficient, and task-dependent semantic understanding of the environment.",OTHERS
+7396,We are not aware of any other formalism in the literature that meets all of the above requirements.,OTHERS
+7400,"Despite the simplicity of this computational model, it can be exploited to compute a quite large range of problems.",OTHERS
+7426,The bacteria inside a node sense the environment and respond accordingly.,OTHERS
+7482,"We initiate the study of quantum races, games where two or more quantum computers compete to solve a computational problem.",OTHERS
+7483,"While the problem of dueling algorithms has been studied for classical deterministic algorithms, the quantum case presents additional sources of uncertainty for the players.",OTHERS
+7484,The foremost among these is that players do not know if they have solved the problem until they measure their quantum state.,OTHERS
+7492,Such collisions are undesirable as they lead to forking of the Bitcoin blockchain.,OTHERS
+7533,We release our source code and pre-trained Unspeech models under a permissive open source license.,OTHERS
+7564,"Furthermore, future research directions on UAV-BS location optimization in 5G and beyond non-terrestrial aerial communication systems are discussed.",OTHERS
+7576,To repair this problem they started a new competition at Kaggle site asking the science community to improve their detection with new algorithms.,OTHERS
+7687,This article is an empirical contribution to the field of educational technology but also - and above all - a methodological contribution to the analysis of the activities enacted in this field.,OTHERS
+7791,Our code and pretrained models (e.g.,OTHERS
+7792,Kinetics and ActivityNet) are publicly available at https://github.com/kenshohara/3D-ResNets.,OTHERS
+7924,The results we got were the following.,OTHERS
+7993,"In this setting, the Byzantine machines may create fake local minima near a saddle point that is far away from any true local minimum, even when robust gradient estimators are used.",OTHERS
+8007,Later on I will provide more applications of the new kind of deformations in Finsler geometry.,OTHERS
+8039,In this case there are periodic tropical recurrent sequences which are similar to classical linear recurrent sequences.,OTHERS
+8124,"The procedures that rise from this project can be applied also to other text types than dictionary glosses, as they convert the output of a parsing process into a semantic representation.",OTHERS
+8126,"Which means that these techniques may find an application also in 'query expansion' strategies, interesting Information Retrieval, Search Engines and Question Answering Systems.",OTHERS
+8134,Project website: https://www.tugraz.at/institute/icg/research/team-lepetit/research-projects/robust-object-pose-estimation/,OTHERS
+8206,For the sake of readability this paper is split into two.,OTHERS
+8283,The performance of the modular system could additionally be improved using dedicated file servers or distributed network file systems.,OTHERS
+8358,The workflow is derived from a long-term collaboration with a group of machine learning and healthcare professionals who used our method to make sense of machine learning models they developed.,OTHERS
+8409,"However, the emergence of `big data' has severely challenged our ability to compute this fundamental decomposition using deterministic algorithms.",OTHERS
+8454,Some examples of policy models are presented and discussed in the context of the previous analysis.,OTHERS
+8487,The experiment codes are available at https://github.com/lykaust15/NN_decision_boundary,OTHERS
+8696,This demonstration showcases how to use PRISM for schema mapping in a real database.,OTHERS
+8801,"The main benefit of this approach is that it does not rely on source code or binary instrumentation, but only on a preliminary and general knowledge of an application's architecture to bootstrap the analysis.",OTHERS
+8828,"In this paper, we investigate why this is the case.",OTHERS
+8893,This reduction cannot be performed using other optical methods for denoising.,OTHERS
+8925,To appear in Theory and Practice of Logic Programming (TPLP).,OTHERS
+8949,Availability and implementation: https://github.com/lh3/ropebwt2   Contact: hengli@broadinstitute.org,OTHERS
+9176,"In this paper, we present the motivation for Mr. DLib, the architecture and details about the effectiveness.",OTHERS
+9253,The solver is available for public use through the authors' web site.,OTHERS
+9315,"The beta version, so called publicMC@BATAN, has been released and implemented for internal users at the National Nuclear Energy Agency (BATAN).",OTHERS
+9340,(2017) as a benchmark for this task.,OTHERS
+9364,Our results show that QShare ensures bandwidth guarantees while driving network utilization to over 91% even under unpredictable traffic demands.,OTHERS
+9369,"In a previous version of the report, we use a similar argument based on randomness to show that the P = NP assertion was also impossible to prove, but this part of the paper was shown to be incorrect.",OTHERS
+9370,"So, this version deletes it.",OTHERS
+9421,"This paper outlines the architectural design and embodies the implementation, test results and performance evaluation of the Treasure-Crawler system.",OTHERS
+9442,The image biomarker standardisation initiative (IBSI) is an independent international collaboration which works towards standardising the extraction of image biomarkers from acquired imaging for the purpose of high-throughput quantitative image analysis (radiomics).,OTHERS
+9462,"However, manyresearchers inspired by the great success of deep neural networks (DNN)approaches in the automatic speech recognition, applied DNN in thespoofing detection task and obtained quite low EER for known and un-known type of spoofing attacks.",OTHERS
+9470,(2007).,OTHERS
+9521,The datasets are available at https://github.com/bdhingra/quasar .,OTHERS
+9533,We believe our dataset promotes collaborative research of the threat information analysis to generate CTI.,OTHERS
+9597,BIN can be implemented with only a few lines of code using popular deep learning frameworks.,OTHERS
+9701,"The input for the neural network is a simulated object list similar to that of Radar or Lidar sensors, superimposed by a relational semantic scene description.",OTHERS
+9732,"We show how to use FoamGrid, with particular attention to the extensions of the grid interface needed to handle non-manifold topology and grid growth.",OTHERS
+9851,The possible gains of the system w.r.t. a pure LOS MIMO system are illustrated by evaluating the capacities with total transmit power constraints.,OTHERS
+9877,"In addition, we discuss the limitations of existing benchmarks and propose more challenging ones.",OTHERS
+9904,This corpus will help to develop models to automatically assign a personality trait to an author of a text document.,OTHERS
+10018,"Accordingly, the book is structured into the following three parts: Part A: Fault tolerance engineering: from requirements to code; Part B: Verification and validation of fault tolerant systems; Part C: Languages and Tools for engineering fault tolerant systems.",OTHERS
+10031,"Also, we visualize the filters along layers and compare the characteristics of learned filters.",OTHERS
+10054,We evaluate our depth2action framework on three large-scale action recognition video benchmarks.,OTHERS
+10057,The method is referred to as the correlogram for undersampled data.,OTHERS
+10188,Our new implementation is available at https://github.com/moberweger/deep-prior-pp .,OTHERS
+10213,"After a long, productive discussion with Ana-Maria Popescu (one of the authors of PRECISE) we got more clarity on the PRECISE approach and how the lexicon was authored for the GEO evaluation.",OTHERS
+10252,Our code will be made publicly available.,OTHERS
+10302,This paper describes our initial contribution towards constructing such a benchmark.,OTHERS
+10391,"We argue that, while spreadsheets can function as powerful models for stream operators, their fundamental boundedness limits their scope of application.",OTHERS
+10416,We are members of the Astrophysics Source Code Library's Advisory Committee and its editor-in-chief.,OTHERS
+10496,"Within this framework, two separately developed research areas are bridged together, and a batch of theoretically sound online cost-sensitive bagging and online cost-sensitive boosting algorithms are first proposed.",OTHERS
+10583,Videos of our experiments can be viewed at http://robotpush.cs.uni-freiburg.de,OTHERS
+10593,"Furthermore, AFEL-REC can cope with any kind of data that is present in social learning environments such as resource metadata, user interactions or social tags.",OTHERS
+10609,"Researchers have extensively explored predictive control strategies for controlling heating, ventilation, and air conditioning (HVAC) units in commercial buildings.",OTHERS
+10659,"Closure queries are a natural extension of membership queries and also a variant, appropriate in the context of definite Horn formulas, of the so-called correction queries.",OTHERS
+10681,"Previous analysis followed a variational approach that is only valid for very simple cases (convex rewards, invertible dynamics, and no coupled constraints); or considered deterministic dynamics and provided open-loop (OL) analysis, studying strategies that consist in predefined action sequences, which are not optimal for stochastic environments.",OTHERS
+10791,"Subsequently, we review social secret sharing (NSG'10,NS'10) and its trust function.",OTHERS
+10825,Experimental results on several benchmark datasets demonstrate the effectiveness of the proposed approach.,OTHERS
+10925,The system is publicly available at https://goo.gl/KdWAcV.,OTHERS
+10926,This paper is under consideration for acceptance in TPLP.,OTHERS
+11014,"In this paper, we reflect on the LensKit project, particularly on our experience using it for offline evaluation experiments, and describe the next-generation LKPY tools for enabling new offline evaluations and experiments with flexible, open-ended designs and well-tested evaluation primitives.",OTHERS
+11057,These findings add to our understanding of economic diversification and also to our general understanding of diffusion in networks.,OTHERS
+11067,Code and data will be released upon the paper acceptance.,OTHERS
+11159,Consider two horizontal lines in the plane.,OTHERS
+11160,A pair of a point on the top line and an interval on the bottom line defines a triangle between two lines.,OTHERS
+11161,The intersection graph of such triangles is called a simple-triangle graph.,OTHERS
+11205,These two algorithms illustrate different design methods: one makes use of existing network coding algorithms for error-free transmission and the other makes use of classical error-correcting codes.,OTHERS
+11221,Weather conditions are supposed to be nearly clear and suitable for FSO communication while taking attenuation factor up to 10dB/Km.,OTHERS
+11253,"To address the concerns mentioned above, we make two contributions.",OTHERS
+11267,Query processing and optimization in the WSN is a very challenging task because of their energy and memory constraint.,OTHERS
+11268,"In this paper, first our focus is to review the different approaches that have significant impacts on the development of query processing techniques for WSN.",OTHERS
+11270,This paper describes the HASYv2 dataset.,OTHERS
+11271,"HASY is a publicly available, free of charge dataset of single symbols similar to MNIST.",OTHERS
+11272,It contains 168233 instances of 369 classes.,OTHERS
+11273,HASY contains two challenges: A classification challenge with 10 pre-defined folds for 10-fold cross-validation and a verification challenge.,OTHERS
+11282,We argue the utility of the corpus by comparing self-dialogues with standard two-party conversations as well as data from other corpora.,OTHERS
+11332,"Inspired by the fact that 2D paintings often use vast space to paint background and small but detailed space for foreground, we claim that supporting a large canvas in varying detail is essential for 3D painting.",OTHERS
+11379,"Keywords : Reinforcement learning, Machine learning, Real time strategy, Artificial intelligence.",OTHERS
+11487,"In 5G cellular networks, the coverage dilemma is likely to remain the same, thus widening the rural-urban digital divide further.",OTHERS
+11675,"However, every formal system can be outgrown, and mathematics should be formalised with a view that it will eventually migrate to a new formalism.",OTHERS
+11810,The proposed algorithm is made publicly available at http://live.ece.utexas.edu/research/Quality/VideoATLAS release_v2.rar.,OTHERS
+11877,The arena model has a number of appealing advantages.,OTHERS
+11883,"Currently, the arena model is not effective in tracking the change of strengths of individuals, but its basic framework provides a solid foundation for future study of such cases.",OTHERS
+12038,"The larger luminance range greatly improve the overall quality of visual content, making it appears much more realistic and appealing to observers.",OTHERS
+12039,"HDR is one of the key technologies of the future imaging pipeline, which will change the way the digital visual content is represented and manipulated today.",OTHERS
+12105,Two numerical instances are shown to illustrate the process of approach.,OTHERS
+12116,The sparse controller is thereafter implemented using distributed communication.,OTHERS
+12194,"Keywords: blind deconvolution, robust continuous optimization",OTHERS
+12202,"Thus, conventional pole placement procedures cannot be used to design the delayed feedback controller parameters and place the unstable roots in the left half plane.",OTHERS
+12272,"Specific instances elucidated under such framework are the GLM versions of approximate message passing (AMP), vector AMP (VAMP), and sparse Bayesian learning (SBL).",OTHERS
+12326,"In spite of its importance, it is difficult for researchers to evaluate the domain primarily because of a considerable spread of relevant literature in interdisciplinary domains.",OTHERS
+12327,Previous surveys of CDSS have examined the domain from the perspective of individual disciplines.,OTHERS
+12328,"However, to the best of our knowledge, no visual scientometric survey of CDSS has previously been conducted which provides a broader spectrum of the domain with a horizon covering multiple disciplines.",OTHERS
+12336,It is our belief that this paper will thus serve as an important role for researchers as well as clinical practitioners interested in identifying key literature and resources in the domain of clinical decision support.,OTHERS
+12352,The method is validated experimentally on two academic examples.,OTHERS
+12366,"Therefore, many grid-based search techniques were proposed to provide flexible methods for searching the distributed extensive data.",OTHERS
+12396,This manuscript is under consideration for acceptance in TPLP.,OTHERS
+12667,We are here motivated by tomographic inversion problems that often lead to linear inverse problems.,OTHERS
+12770,Trends like digital transformation even intensify the already overwhelming mass of information knowledge workers face in their daily life.,OTHERS
+12885,We also discuss important practical considerations and provide guidelines to implement adaptive pilot spacing in CA-OFDM systems.,OTHERS
+12943,A sensitivity analysis by our proposed model confirms this fact.,OTHERS
+13012,The source code is available at https://github.com/gmayday1997/ChangeDet.,OTHERS
+13029,"Datasets, models and higher resolution images are available at https://ivi.fnwi.uva.nl/cv/retinet.",OTHERS
+13162,An illustrative case study is included.,OTHERS
+13232,In this note we provide the necessary and sufficient conditions to uniquely reconstruct an oncogenetic tree.,OTHERS
+13251,We release an implementation of the proposed approach along with the acquired datasets with this paper.,OTHERS
+13336,"These models include the symmetric SBM, the planted coloring model, and more exotic SBMs not previously studied.",OTHERS
+13341,We also discuss and sketch future challenges a mature phasor-detective can possibly tackle by adding machine learning and physics modeling sophistication to the basic approach.,OTHERS
+13498,A detailed video tutorial on the method is at http://goo.gl/qKb7pL and code is at http://goo.gl/RM8jvH.,OTHERS
+13516,The challenges in these applications stem from the very low signal-to-noise ratio and the use of a single-dimensional measurement of the channel.,OTHERS
+13602,This notion and its properties are of independent interest.,OTHERS
+13655,"Finally, we draw other conclusions by discussing how well modeling dimensions were considered in these modeling methods and how well assurance dimensions were conveyed in requirements activities.",OTHERS
+13661,We explore the design space for massive amount of Gaussian variable sampling tasks in BNNs.,OTHERS
+13702,This lacuna is troubling as consumers have much control over the data being collected.,OTHERS
+13727,Our work raises an important question: can one construct examples that are adversarial for many or most viewing conditions?,OTHERS
+13728,"If so, the construction should offer very significant insights into the internal representation of patterns by deep networks.",OTHERS
+13729,"If not, there is a good prospect that adversarial examples can be reduced to a curiosity with little practical impact.",OTHERS
+13788,"For example, data miners can generate the models that are explored by optimizers.Also, optimizers can advise how to best adjust the control parameters of a data miner.",OTHERS
+13816,"Unlike previous works, we do not consider particular aspects of visualization techniques, but their mechanisms and foundational vision perception.",OTHERS
+13884,Users continuously engage and disengage in discussions with varying degrees of interaction leading to formation of distinct online communities.,OTHERS
+14002,All details and resources about the dataset and baselines are released on http://zhuhao.me/fewrel.,OTHERS
+14082,We consider a single-input multiple-output (SIMO) channel between the encoder-controller and the decoder-controller which is lossless and imposes random time delay.,OTHERS
+14091,"We demonstrate the use of our method in domain adaptation, remeshing, and representation learning on synthetic and real data.",OTHERS
+14112,We evaluate our method on several challenging indoors sequences demonstrating accurate SLAM and dense mapping of low texture environments.,OTHERS
+14366,Not only does it make scientific reading simple and easy (by connecting the involved concepts used in the scientific articles to their Wikipedia explanations) but also improves the overall quality of the article.,OTHERS
+14368,"One of the prime motivations for this work comes from the observation that, wikified abstracts of scientific documents help a reader to decide better, in comparison to the plain abstracts, whether (s)he would be interested to read the full article.",OTHERS
+14414,Synthetic experiments validate our theoretical findings.,OTHERS
+14498,This is desirable because high dimensional data usually have many different natural facets and can be meaningfully partitioned in multiple ways.,OTHERS
+14503,Our Web search system is called the Treasure-Crawler.,OTHERS
+14510,We the wards with the highest probability of successful cooperation with a clinical pharmacist.,OTHERS
+14552,The non-counting invariance property of FG has a direct implication for VPDA too.,OTHERS
+14556,"In this paper, we propose, t-PINE, a method that addresses these limitations.",OTHERS
+14559,"We argue that the implicit and the explicit mapping from a higher-dimensional to a lower-dimensional vector space is the key to learn more useful, highly predictable, and gracefully interpretable representations.",OTHERS
+14560,Having good interpretable representations provides a good guidance to understand how each view contributes to the representation learning process.,OTHERS
+14561,"In addition, it helps us to exclude unrelated dimensions.",OTHERS
+14690,The method is tested on a set of some more than five-hundred authors in a coauthor network from the CiteSeerX database.,OTHERS
+14700,This dataset is different from prior datasets in several key ways.,OTHERS
+14725,We perform a Systematic Literature Review to discover how Humanoid robots are being applied in Socially Assistive Robotics experiments.,OTHERS
+14763,"We access our models and the evaluation metrics on two tasks: paper-news title transfer, and positive-negative review transfer.",OTHERS
+14786,"Naturally, CNN is designed to learn classification method based on shape information, but we proved that CNN can also learn classification based on color distribution.",OTHERS
+14870,Answers.,OTHERS
+14884,"With this article, we contribute in four ways.",OTHERS
+14921,"This paper describes several results of Wimmics, a research lab which names stands for: web-instrumented man-machine interactions, communities, and semantics.",OTHERS
+14939,Data curation and analysis of the information may boost our health related knowledge.,OTHERS
+15129,2013; Bjork et al.,OTHERS
+15130,2010; Jamali and Nabavi 2015).,OTHERS
+15131,It is natural to wonder if this might reduce researchers' reliance on library subscriptions for access.,OTHERS
+15278,"To the best of our knowledge, this is the first study where discourse relationships between sentences have been used to determine relationships among sentences in legal court case transcripts.",OTHERS
+15284,"We expect that a more detailed analysis can help us better characterize the nature of peer relationships and distinguish various types of relations, such as siblings, friends, and romantic partners, more clearly.",OTHERS
+15290,Anonymized rater identities are recorded across images allowing us to exploit intra-rater consistency using a novel sampling strategy when computing the ranking loss of training image pairs.,OTHERS
+15345,We further investigate the differences between scientific visualization and infographics as a means to understand memorability differences by data attributes.,OTHERS
+15402,"The Python SimKern software, the models (in MATLAB, Octave, and R), and the datasets are made freely available at https://github.com/davidcraft/SimKern .",OTHERS
+15450,Our contribution is two-fold.,OTHERS
+15478,One of the major reasons behind this being that algebraic cryptanalysis mainly depends on I/O relations of the AES S- Box (a major component of the AES).,OTHERS
+15526,"Therefore, modelling network delays is important for designing NCS.",OTHERS
+15529,This makes estimating ran-dom delays challenging.,OTHERS
+15642,The app is freely available at the Apple and Google Play stores.,OTHERS
+15656,We conclude with a discussion of how to integrate this approach into large-scale AWE systems.,OTHERS
+15783,"The topology provides coordinates which could be used to identify related games in a semantic web ontology and facilitate comparative analysis of agent-based simulations and other research in game theory, as well as charting relationships and potential moves between games as a tool for institutional analysis and design.",OTHERS
+15787,"For clustering even nonlinearly separable vectors, the SkeVa family offers also a member based on user-selected kernel functions.",OTHERS
+15788,"Further trading off performance for reduced complexity, a fourth member of the SkeVa family is based on a divergence criterion for selecting proper minimal subsets of feature variables and vectors, thus bypassing the need for K-means clustering per iteration.",OTHERS
+15820,Directions for future research and possible improvements of the proposed method are discussed.,OTHERS
+15847,The existence of very short test sessions makes this data set challenging.,OTHERS
+15872,The approach is particularly well-suited for extracting large numbers of concepts from text.,OTHERS
+15879,"Meanwhile, we also obtain an asymptotic spectrum analysis by a closed-form expression.",OTHERS
+15997,The promising future works are given at the conclusion of the review.,OTHERS
+16260,The purpose of this paper is twofold.,OTHERS
+16338,We evaluate our approach on Chinese to English language transferring for SLU systems.,OTHERS
+16350,Then the best optimal solution obtained by the IDE is provided as the initial Codebook for the LBG.,OTHERS
+16356,"Each receiver is equipped with a cache of equal capacity, and the requested files are delivered over a shared error-free broadcast link.",OTHERS
+16446,The results are expected to have both theoretical and managerial implications.,OTHERS
+16484,We consider mixed-autonomy traffic where a Human-driven Vehicle (HV) and an Autonomous Vehicle (AV) drive together.,OTHERS
+16601,"Keywords: Weighted network, increment behavior, tun- able cluster, epidemic spreading.",OTHERS
+16628,Code is available at Github: https://github.com/miliadis/DeepVideoCS,OTHERS
+16646,We present a novel method for high detail-preserving human avatar creation from monocular video.,OTHERS
+16662,Key concepts underlying the compiler approach and the automated generation of computer code are elaborated.,OTHERS
+16663,"The approach is demonstrated for a range of common problems, including the Poisson, biharmonic, advection--diffusion and Stokes equations.",OTHERS
+16700,We also provide open-source software and tools used for MWE extraction and alignment inspection.,OTHERS
+16715,"In this work, we introduce SmartPaste, a first task that requires to use such information.",OTHERS
+16716,"The task is a variant of the program repair problem that requires to adapt a given (pasted) snippet of code to surrounding, existing source code.",OTHERS
+16774,"However, with the increasing amount of RGB-D data captured from sophisticated sensors like Microsoft Kinect, and the recent advances in the area of sophisticated deep learning techniques, introduction of an efficient deep learning technique for scene flow estimation, is becoming important.",OTHERS
+16886,Our data and model can be downloaded from: http://nlp.cs.washington.edu/entity_type,OTHERS
+16950,The validity of the obtained ranking for the given decision making problem is established by testing criteria proposed by Wang and Triantaphyllou (2008) along with further analysis and discussion.,OTHERS
+16974,The database contains measurements of soil profile data.,OTHERS
+16978,"Instead of using statistic metrics that are biased towards specific trees we use a more flexible, global metric of tree quality that try to optimize accuracy and size.",OTHERS
+17067,We provide a detailed discussion and preliminary analysis on strategies used in the network training.,OTHERS
+17228,A comparison is done to compare the differences between the recognition time in the original algorithm and in the enhanced algorithm.,OTHERS
+17328,"Compared to traditional mobile distributed computing systems, mobile edge cloud introduces several complex challenges due to the heterogeneous computing environment, heterogeneous and dynamic network environment, node mobility, and limited battery power.",OTHERS
+17329,The real-time requirements associated with the internet of things and cyber-physical system applications make the problem even more challenging.,OTHERS
+17335,Source code in TensorFlow and PyTorch is publicly available at https://imatge-upc.github.io/danifojo-2018-repeatrnn/,OTHERS
+17387,Our code and newly collected human motion dataset will be publicly shared.,OTHERS
+17700,"Keywords: - Internet of Things (IoT), Machine-to-Machine (M2M), Security, 3D printer, smartphone",OTHERS
+17793,The interested readers are encouraged to consult the list of bibliographical references for more details on this exciting and always active research topic.,OTHERS
+17817,"However, the server is able to determine whether the distance of two encrypted templates is within a pre-defined threshold.",OTHERS
+17859,Our code is available at https://github.com/FlamingHorizon/CMM-VR.,OTHERS
+17862,"This is both a novel method in process prediction, which has largely relied on explicit process models, and also a novel application of deep learning methods.",OTHERS
+17907,"In contrast to other approaches, our general framework easily adapts to situations where one has additional (conditional) independence requirements on the joint distribution, as in the case of graphical models.",OTHERS
+17908,We end with a list of open problems.,OTHERS
+17909,A complementary article discusses applications to quantum nonlocality and contextuality.,OTHERS
+17996,A comparison study with various state-of-the-arm algorithms is also included.,OTHERS
+18063,The code is released on https://github.com/AlfredXiangWu/LightCNN.,OTHERS
+18199,We have made RESIDE's source code available to encourage reproducible research.,OTHERS
+18315,We hope our results will encourage the researchers and engineers to pursue further in compressive imaging for real applications.,OTHERS
+18354,For supplementary video see: https://youtu.be/u151hJaGKUo,OTHERS
+18497,This will be supported by both simulations and experimental data.,OTHERS
+18611,We consider distributed optimization over orthogonal collision channels in spatial random access networks.,OTHERS
+18612,Users are spatially distributed and each user is in the interference range of a few other users.,OTHERS
+18613,Each user is allowed to transmit over a subset of the shared channels with a certain attempt probability.,OTHERS
+18638,"The experimental analysis considers the dispersion uncompensated transmission of a 5 x 32 GBd WDM system with DP-16QAM and DP-64QAM after 4200 km and 1120 km, respectively.",OTHERS
+18642,"The experimental analysis considers the dispersion uncompensated transmission of a 5 x 32 GBd WDM system with DP-16QAM and DP-64QAM after 4200 km and 1120 km, respectively.",OTHERS
+18755,"By its very nature, the research problem defies the collection of a full set of structural data.",OTHERS
+18782,"However, their modeling and configuration remain under-represented.",OTHERS
+18783,"In previous work, the integration control and data flow syntax and semantics have been expressed in the Business Process Model and Notation (BPMN) as a semantic model for message-based integration, while adapter and the related quality of service modeling were left for further studies.",OTHERS
+18797,The MATLAB source code of the proposed metric is available at https://www.mathworks.com/matlabcentral/fileexchange/59809.,OTHERS
+18836,"Such qualitative statements can typically be proved by ""soft analysis"", such as indirect proofs.",OTHERS
+18944,"We empirically compare with, and highlight the weakness of, HAT and CHAT, methods of transferring knowledge from a source agent/human to a target agent.",OTHERS
+18995,This integration enables design and development of next generation of applications through sharing of resources in mobile environments and also introduces several challenges due to dynamic and unpredictable network.,OTHERS
+19166,The optimal scheduling is here defined to ensure that all real-time tasks meet their deadlines when the total utilization demand of the given tasks does not exceed the total processing capacity.,OTHERS
+19263,"Theoretical foundations of the approach are presented, the main algorithms of the ASP solver ASPeRiX are detailed and some experiments and comparisons with existing systems are provided.",OTHERS
+19270,The proposed theory is applied on the maritime domain and is validated through extensive experimentation with real sensor streams originating from large-scale sensor networks deployed in ships.,OTHERS
+19424,"This answers a question recently raised by Sullivan, Townsend and Werzanski.",OTHERS
+19614,"Nonetheless, other tasks requiring visual expertise are unlikely to be entrusted to machines for some time, e.g., satellite and medical imagery analysis.",OTHERS
+19647,"We apply our approach to a network of about 15,000 Astronomy & Astrophysics papers published 2010 and their cited sources, and to a network of about 100,000 Astronomy & Astrophysics papers (published 2003--2010) which are linked through direct citations.",OTHERS
+19660,"Therefore, there is a need in academic centres and universities to strongly popularize and increase the use of GitHub for student works.",OTHERS
+19687,This short paper reports the algorithms we used and the evaluation performances for ISIC Challenge 2018.,OTHERS
+19696,The medical quality of an actual guideline concerning diabetes mellitus 2 is investigated in this way.,OTHERS
+19767,"Together, these applications demonstrate the effectiveness of the approach.",OTHERS
+19815,We exemplify an application of deep graphs using a real world dataset of precipitation measurements.,OTHERS
+19905,"This article has been published originally in EPL, DOI: 10.1209/0295-5075/108/68008.",OTHERS
+19906,This version differs from the published version by minor formatting details.,OTHERS
+19920,"We proposed hybrid music recommender systems based solely on data and robust to the so-called ""cold-start problem"" for new music items, favoring the discovery of relevant but non-popular music.",OTHERS
+19921,"We thoroughly studied the specific task of music playlist continuation, by analyzing fundamental playlist characteristics, song feature representations, and the relationship between playlists and the songs therein.",OTHERS
+19958,"Cars can nowadays record several thousands of signals through the CAN bus technology and potentially provide real-time information on the car, the driver and the surrounding environment.",OTHERS
+19959,"This paper proposes a new method for the analysis and classification of driver behavior using a selected subset of CAN bus signals, specifically gas pedal position, brake pedal pressure, steering wheel angle, steering wheel momentum, velocity, RPM, frontal and lateral acceleration.",OTHERS
+19960,"Data has been collected in a completely uncontrolled experiment, where 64 people drove 10 cars for or a total of over 2000 driving trips without any type of pre-determined driving instruction on a wide variety of road scenarios.",OTHERS
+19961,"We propose an unsupervised learning technique that clusters drivers in different groups, and offers a validation method to test the robustness of clustering in a wide range of experimental settings.",OTHERS
+19962,The minimal amount of data needed to preserve robust driver clustering is also computed.,OTHERS
+19963,The presented study provides a new methodology for near-real-time classification of driver behavior in uncontrolled environments.,OTHERS
+20037,The source code will be made available.,OTHERS
+20254,"We evaluate our approach on two prevailing datasets, THUMOS'14 and ActivityNet.",OTHERS
+20353,The latter result may have applications beyond the scope of this work.,OTHERS
+20387,This paper is under consideration for acceptance in TPLP.,OTHERS
+20633,The source code is available online https://github.com/michaelkirsche/IEEE802154INET-Standalone,OTHERS
+20733,"In order to verify the capability of the proposed method, a case of study is also presented, it shows that a significant cost reduction is feasible with respect to multi-objective and single-objective optimization methods.",OTHERS
+20782,We first present a theory of credal networks based on separately specified sets of probabilities.,OTHERS
+20797,"To our knowledge, this is the first project that utilized machine learning in DV prevention.",OTHERS
+20798,"The research approach and results of this project not only can improve DV prevention process, but also be applied to other social work or criminal prevention areas.",OTHERS
+20855,'s approach.,OTHERS
+20941,We believe that such phenomena may be strongly tied to different evolutionary aspects of human languages.,OTHERS
+20976,This paper proposes a variant of the normalized cut algorithm for spectral clustering.,OTHERS
+20989,"The dataset is composed of 2,000 Brazilian license plates consisting of 14,000 alphanumeric symbols and their corresponding bounding box annotations.",OTHERS
+21008,"We present AMIGOS-- A dataset for Multimodal research of affect, personality traits and mood on Individuals and GrOupS.",OTHERS
+21018,The database is made publicly available.,OTHERS
+21031,"This theory development paper defines and illustrates Sensemaking-Coevolution-Implementation Theory, grounds its concepts and relationships in existing literature, conceptually evaluates the theory and situates it in the broader context of information systems development.",OTHERS
+21086,"To deal with the challenges, we present a solution in this study.",OTHERS
+21088,"Both Control Server and Readout Server consist three parts: resource manager, waveform engine and communication interface.",OTHERS
+21102,"A slightly reduced version of this paper has been published in the Journal for General Philosophy of Science, Springer, March 2013, DOI: 10.1007/s10838-013-9215-7.",OTHERS
+21132,In this paper the authors frame this problem within the much broader (and older) one of information overload.,OTHERS
+21133,"They argue that users' dissatisfaction with search engines is a currently common manifestation of such a problem, and propose a different angle from which to tackle with it.",OTHERS
+21134,"As it will be discussed, their approach shares goals with a current hot research topic (namely, learning to rank for information retrieval) but, unlike the techniques commonly applied in that field, their technique cannot be exactly considered machine learning and, additionally, it can be used to change the search engine's response in real-time, driven by the users behavior.",OTHERS
+21135,"Their proposal adapts concepts from Swarm Intelligence (in particular, Ant Algorithms) from an Information Foraging point of view.",OTHERS
+21186,Code has been made available at: https://github.com/jiasenlu/NeuralBabyTalk,OTHERS
+21189,We have named this system CommSense.,OTHERS
+21194,"The major challenge, on which we are continuing our work, is how to characterize the features in the environmental changes.",OTHERS
+21195,This is an acute challenge given the fact that the bandwidth available is narrow and the system is inherently a forward looking radar.,OTHERS
+21273,"Moreover, we advocate to study further error recognition through neuroimaging to enhance usability and increase user experience.",OTHERS
+21291,The ability to identify machine printed characters in an automated or a semi automated manner has obvious applications in numerous fields.,OTHERS
+21356,"A state trace difference, regarding the respective nodes of the ClDG is obtained, which leads to detect the bug in the program.",OTHERS
+21512,"All three datasets, aligned into a uniform format, are also publicly available.",OTHERS
+21526,The algorithm is compared to a deep learning method and shows competitive performance in experiments.,OTHERS
+21550,"Yes, it can.",OTHERS
+21620,"Finally, our solution is evaluated using simulations in data-center networks.",OTHERS
+21784,HEALER will be deployed in the real world in early Spring 2016 and is currently undergoing testing at a homeless shelter.,OTHERS
+21887,"In addition, we present a demo website of our tool with examples of good and bad translations: http://attention.lielakeda.lv",OTHERS
+21973,CryptoImg can be used from either mobile or desktop clients.,OTHERS
+22003,Code available online on GitHub: https://github.com/georgesterpu/Sigmedia-AVSR,OTHERS
+22089,"Moreover, the size of the tree is difficult to obtain and it will be different for different active sites.",OTHERS
+22092,The result using fixed length and variable length configuration are compared.,OTHERS
+22391,Its source code has been integrated into our popular software library GPy.,OTHERS
+22476,"A geometrical pattern is a set of points with all pairwise distances (or, more generally, relative distances) specified.",OTHERS
+22485,To the best of our knowledge this paper is the first to investigate constellation queries at scale.,OTHERS
+22545,"Because the gating network is small, it trains quickly on small amounts of held out data, and does not add overhead at scoring time.",OTHERS
+22561,There are three major contributions of this paper.,OTHERS
+22562,1,OTHERS
+22716,We assume that during peak demand there is insufficient power to charge all the vehicles simultaneously.,OTHERS
+22717,"In each five minute interval of time we select a subset of the vehicles to charge, based upon information about the vehicles.",OTHERS
+22737,"In the MRT case, our low-complexity version for systems with a large number of antennas may be of independent interest.",OTHERS
+22940,"Here, we do not suggest that any aspect of information theory is wrong.",OTHERS
+22974,"In this paper, we present the system we have used for the Implicit WASSA 2018 Implicit Emotion Shared Task.",OTHERS
+23011,Our code is publicly available at https://github.com/ImagingLab/ICIAR2018,OTHERS
+23032,Our source codes are made publicly available(https://github.com/YuliangXiu/PoseFlow).,OTHERS
+23078,"While Twitter spambot detection is a specific use case on a specific social media, our proposed methodology is platform and technology agnostic, hence paving the way for diverse behavioral characterization tasks.",OTHERS
+23109,Our mixture model uses negligible additional parameters and incurs no extra computation cost during decoding.,OTHERS
+23114,"We present monaa, a monitoring tool over a real-time property specified by either a timed automaton or a timed regular expression.",OTHERS
+23187,"In this regard, we conducted a case study in the context of Beocat cluster at Kansas State University.",OTHERS
+23208,"This formulation is applicable in timetabling applications, where such a clique partition of the conflict graph is given implicitly.",OTHERS
+23374,Given the myriad of applications it is clear that a complete understanding of how people move in space can lead to huge benefits to our society.,OTHERS
+23412,We provide various examples throughout the paper to illustrate and discuss different definitions and results.,OTHERS
+23551,"To this end, we shed light on the handover problem in dense cellular environments, show scenarios where the network fails to support certain mobility profiles, and obtain network design insights.",OTHERS
+23642,Maurice Gross (1934-2001) was both a great linguist and a pioneer in natural language processing.,OTHERS
+23643,This article is written in homage to his memory,OTHERS
+23748,"A scenario is a procedure; thus, our framework can be used both for functional tests and for performance measurements.",OTHERS
+23749,We show how to use dfuntest to deploy our DHT prototype on 60 PlanetLab nodes and verify whether the prototype maintains a correct topology.,OTHERS
+23866,Our code and data are available at: https://github.com/Yang7879/3D-RecGAN.,OTHERS
+23875,"To the best of our knowledge, this is the first deep CNN tailored for the problem of concern, and may be extended to solve similar segmentation tasks to facilitate investigations into pathology and clinical treatment.",OTHERS
+23907,"This paper is the extended and detailed version of the presentation at the third International Conference on Algorithms for Computational Biology to be held at Trujillo, Spain, June 21-22, 2016.",OTHERS
+24028,"In addition, the centralized architecture of the conventional surveillance systems is vulnerable to single point of failure and privacy breach owning to the lack of protection to the surveillance feed.",OTHERS
+24032,"Smart contract enabled access authorization strategy prevents any unauthorized user from accessing the microservices and offers a scalable, decentralized and fine-grained access control solution for smart surveillance systems.",OTHERS
+24089,"The framework has the interesting characteristic that no cluster centers need to be explicitly specified, thus the resulting cluster distribution is purely data-driven and no distance metrics need to be predefined.",OTHERS
+24131,Code for applying synthetic occlusions is availabe at https://github.com/isarandi/synthetic-occlusion.,OTHERS
+24236,We leave unsolved the unconditional existence of a complete problem under polynomial-time kernel reductions for the standard complexity classes.,OTHERS
+24267,To appear in Theory and Practice of Logic Programming (TPLP).,OTHERS
+24279,We also report on an on-going implementation of our proposed constructs in Encore.,OTHERS
+24293,The performance of the proposed unified approach is demonstrated for tensor-based kernels such as the Sparse Matricized Tensor- Times-Khatri-Rao Product (SpMTTKRP) and the Sparse Tensor- Times-Matrix Multiply (SpTTM) and is used in tensor decomposition algorithms.,OTHERS
+24334,"Finally, we make suggestions for how our model could be useful to interpretability researchers, system developers, and regulatory bodies auditing machine learning systems.",OTHERS
+24480,We briefly report on a successful linear program reconstruction attack performed on a production statistical queries system and using a real dataset.,OTHERS
+24602,The time complexity of such problem is very high.,OTHERS
+24604,"In the analysis we focus on the case when the modules participate in diagnosis with their observations, rather then the case when indistinguishable observations are blocked due to concurrency.",OTHERS
+24684,We extended the approach to video imaging at the native frame rate of the sensor.,OTHERS
+24886,(e.g.,OTHERS
+24887,"See white papers by Senseye.io, and output of the NASA Prognostics Center of Excellence (PCoE).)",OTHERS
+24896,Background subtraction is the primary task of the majority of video inspection systems.,OTHERS
+24915,In terms of Organic Computing (OC) it be seen as a step towards self-awareness and self-adaptation.,OTHERS
+24960,"The source code of temporal calibration is integrated into our public project, VINS-Mono.",OTHERS
+24998,We have made our code and corpus publicly available to make our results reproducible.,OTHERS
+25009,"We contribute a modified miniKanren, drivable by an external agent, available at https://github.com/xuexue/neuralkanren.",OTHERS
+25223,"In the last decade, deep learning algorithms have become very popular thanks to the achieved performance in many machine learning and computer vision tasks.",OTHERS
+25263,"In this work, we also generate a data set for conducting RA-MDS.",OTHERS
+25274,"Significance: CLEAR-DR can act as a potential powerful tool to address the uninterpretability issue of current CAD systems, thus improving their utility to clinicians.",OTHERS
+25277,"Basically, an agent has to choose a single or series of actions from a set of options, without knowing for sure their consequences.",OTHERS
+25360,"While very short simple, the obtained upper bound in near-optimal.",OTHERS
+25504,We collected a large-scale dataset that contained 4146 CT scans with annotations of varying types and sizes of PNs (even PNs smaller than 3mm were annotated).,OTHERS
+25505,"To the best of our knowledge, this dataset is the largest cohort with relatively complete annotations for PNs detection.",OTHERS
+25549,The code for our method is publicly available at https://github.com/code-terminator/DilatedRNN,OTHERS
+25606,Some issues of data security are discussed and a random replication scheme is proposed to ensure that the data loss can be highly reduced compared to the existing schemes in the literature.,OTHERS
+25653,This document is an extended version of an article currently in print for the proceedings of ICDE'18 with the same title and by the same authors.,OTHERS
+25654,The main additions are more implementation details and experiments.,OTHERS
+25728,Based on this model we generalize the flooding attacks and propose an effective attack detection using Honeypots.,OTHERS
+25733,"We finally discuss how to combine TakeFive and FRED, obtaining higher values of precision, recall and F1.",OTHERS
+25737,"Finally we highlight alternatives, and open problems in this direction.",OTHERS
+25778,Chromosome representation and genetic operations like Mutation and Crossover are described in detail.,OTHERS
+25784,The proposed method can be readily adapted to any non-negative EHR data across various healthcare institutions.,OTHERS
+25814,"The square puzzles and the hexagon puzzles are both discrete versions of configuration spaces of disks, which are of interest in statistical mechanics and topological robotics.",OTHERS
+25815,"The combinatorial theorems and proofs in this paper suggest followup questions in both combinatorics and topology, and may turn out to be useful for proving topological statements about configuration spaces.",OTHERS
+25857,"Second contribution comes from experiments performed on a dataset formed of 20 real-world natural jittery videos, with manually annotated ground truth.",OTHERS
+25861,"Different from the traditional domain adaption methods which rely on a global domain shift for all classes between source and target domain, the proposed method is more flexible to capture individual class variations across domains.",OTHERS
+25862,"By adopting a natural and widely used assumption -- ""the data samples from the same class should lay on a low-dimensional subspace, even if they come from different domains"", the proposed method circumvents the limitation of the global domain shift, and solves the cross-domain recognition by finding the compact joint subspaces of source and target domain.",OTHERS
+25882,Explainable AI has received considerable scientific and popular attention in recent times.,OTHERS
+25942,We include a stability criteria for our numerical approximation.,OTHERS
+26049,"Furthermore, the model is still unable to handle unseen speakers.",OTHERS
+26155,We present results for Turkish and Finnish as agglutinative languages and English as a morphologically poor language.,OTHERS
+26238,Learnings from the experiments can further be used to pinpoint course material to be improved and tailor content to be audience specific.,OTHERS
+26248,The central conceptual tool in the development of our theory is geometric measure theory.,OTHERS
+26340,"Since the achievable rate with finite blocklength channel codes is not convex in radio resources, it is challenging to optimize resource allocation.",OTHERS
+26389,"The source code of map reuse is integrated into our public code, VINS-Mono.",OTHERS
+26445,This project includes researchers from computer and social sciences.,OTHERS
+26464,The operation of the architecture is highly based on the metadata that are outlined in the paper.,OTHERS
+26474,We also detail several iterative improvements and failure modes.,OTHERS
+26599,Specifically we make three contributions.,OTHERS
+26670,The source code and the dataset are available at https://github.com/QiuJueqin/Reweight-CC.,OTHERS
+26711,Several useful insights are provided.,OTHERS
+26794,This might sound disillusioning at first.,OTHERS
+26894,Therefore input data can be either XML or RDF/OWL and output data can be formatted in XML (also using RDF/OWL XML serialization).,OTHERS
+26951,This scenario is important in many applications such as homeland security and law enforcement.,OTHERS
+27044,These results can be used to improve sales forecasts and to increase sales in marketing campaigns.,OTHERS
+27144,"The source code, training data and audio examples of the generated results can be found at https://salu133445.github.io/bmusegan/ .",OTHERS
+27185,The simple philosophy behind this strategy is that predictions based on the estimated variances should be both accurate and reliable (i.e. statistical consistent with observations).,OTHERS
+27401,"With this strategy, we hope to increase the accuracy of solutions with minimal losses in execution time.",OTHERS
+27502,This paper describes a dataset containing small images of text from everyday scenes.,OTHERS
+27626,"These approaches, combined with various possibilities of using (e.g.",OTHERS
+27690,"To the best of our knowledge, this is one of the first attempts to make use of a combination of stylometric features extracted from emails, and social features extracted from an online social network to detect targeted spear phishing emails.",OTHERS
+27844,"Desired temporal properties of the system are expressed using a fragment of linear temporal logic, called safe LTL over finite traces.",OTHERS
+28044,"This method ensures physical realizability of MISO WPT systems designed via convex optimization -- a robust, semi-analytical and intuitive route to optimizing such systems.",OTHERS
+28156,"In this paper, we outline the different techniques we use in RecStep, and the contribution of each technique to overall performance.",OTHERS
+28227,"With respect to practical applicability, it takes on average 14.8 minutes to find a patch.",OTHERS
+28228,"The experiment was done on a scientific grid, totaling 17.6 days of computation time.",OTHERS
+28229,All the repair systems and experimental results are publicly available on Github in order to facilitate future research on automatic repair.,OTHERS
+28291,All the code is publicly available: general-purpose tools have been integrated into the Clinica software (www.clinica.run) and the paper-specific code is available at: https://gitlab.icm-institute.org/aramislab/AD-ML.,OTHERS
+28296,The proposed MCM dynamical system is conducive to an analogue circuit implementation on a chip or simulation using Ordinary Differential Equation (ODE) solvers.,OTHERS
+28376,"Furthermore, our framework can handle cluttered scenarios.",OTHERS
+28377,A new Grasp Type Dataset (GTD) that considers 6 commonly used grasp types and covers 12 household objects is also presented.,OTHERS
+28422,Some of them are described in this paper.,OTHERS
+28433,"But now computing infrastructure should be energy efficient because, in wireless networking, devices are mostly powered by a battery that is a limited source of energy and is a challenge for the researchers.",OTHERS
+28445,Similar speedups are likely to carry over to all RL algorithms.,OTHERS
+28555,A GPU-based open source implementation of the algorithm is provided.,OTHERS
+28575,This paper has dual aims.,OTHERS
+28603,"Also, we extend our discussion with our insights on conceptual spaces of bidirectional hand prosthetics.",OTHERS
+28715,This offers the new model to be accomplished by a scale analysis approach based on a spectral decomposition of the total variation.,OTHERS
+28726,"In addition, some other security defects are also reported.",OTHERS
+28753,"Despite the apparent differences, it seems sensible to put all these languages under the same umbrella.",OTHERS
+28780,The approach is vindicated by a prototype implementation.,OTHERS
+28833,Our code is available at https://github.com/ramprs/neuron-importance-zsl.,OTHERS
+28843,This outline provides an overview over the project.,OTHERS
+28858,An energy management scheme is presented for a grid-connected hybrid power system comprising of a photovoltaic generator as the primary power source and fuel-cell stacks as backup generation.,OTHERS
+28912,"To the best of our knowledge, this survey is the most recent and comprehensive study of PPDA techniques.",OTHERS
+28932,"To denoise a 3D point cloud, we present a novel algorithm, called weighted multi-projection.",OTHERS
+28935,We validate the empirical performance on the dataset of ShapeNetCore and show that weighted multi-projection outperforms its competitors in all nine classes.,OTHERS
+28975,We hope the observations from this evaluation will help app developers choose appropriate security analysis tools and persuade tool developers and researchers to identify and address limitations in their tools and techniques.,OTHERS
+28976,We also hope this evaluation will catalyze or spark a conversation in the software engineering and security communities to require more rigorous and explicit evaluation of security analysis tools and techniques.,OTHERS
+28981,The analysis is based on bibliometric data from the Italian university system for the five year period 2004-2008.,OTHERS
+29079,The code is publicly available at https://github.com/oval-group/dfw.,OTHERS
+29195,Video description is the automatic generation of natural language sentences that describe the contents of a given video.,OTHERS
+29265,This paper discusses the mathematical abstractions and methods used in the design of the library and its implementation.,OTHERS
+29266,A number of examples are presented to demonstrate the use of the library in application code.,OTHERS
+29391,This resulting corpus is a valuable resource for improving the quality and relational abilities of IVAs.,OTHERS
+29425,"Having inspected the different models for channel interference present in the literature, it can be obviously seen that interference models have been gradually evolved in terms of complication and sophistication.",OTHERS
+29426,"Although numerous papers can be found in the literature that have investigated different models for interference, to the best of our knowledge, very few publications are available that provide a review of all models and their comparisons.",OTHERS
+29470,"The current implementation of the tool can be used with any Java-based target application that employs one of the AWT, Swing or SWT toolkits.",OTHERS
+29593,"Finally, we consider extensions of these concepts to a more general class of problems of heuristic search under uncertainty.",OTHERS
+29667,"Furthermore, by treating software as a work of prose, we can apply a similar analysis to open-source software repositories and explore time-based relations in commit logs.",OTHERS
+29669,"Finally, we help readers working on their own temporal analysis by comparing the fundamental differences between literary works and code repositories, and suggest blog or wiki as recently-emerging works.",OTHERS
+29818,"In this paper, we consider a subset of Erlang, a functional and concurrent programming language based on the actor model.",OTHERS
+29831,Together these components provide a context in which explanation methods can be evaluated regarding their adequacy.,OTHERS
+29877,We consider the learning of algorithmic tasks by mere observation of input-output pairs.,OTHERS
+30010,Selection of Vadi-Samvadi notes in a quasi-multinomial set up is still an open research problem.,OTHERS
+30064,The contributions of this paper are as follows.,OTHERS
+30097,The work has been carried out in the framework of the Next Generation Waveform for Increased Spectral Efficiency (NGWISE) project founded by the European Space Agency (ESA).,OTHERS
+30239,"Hence, we refer to T(1) as sonorant-fricative discrimination index (SFDI).",OTHERS
+30386,Test runs were made and outputs of the application were noted.,OTHERS
+30430,"Modern information systems are changing the idea of ""data processing"" to the idea of ""concept processing"", meaning that instead of processing words, such systems process semantic concepts which carry meaning and share contexts with other concepts.",OTHERS
+30436,The automatic construction of concept hierarchies from texts is a complex task and much work have been proposing approaches to better extract relations between concepts.,OTHERS
+30520,This is naturally interpreted as a Kalman filter with multiple interacting state space vectors.,OTHERS
+30585,"Interestingly, the depth (number of layers) of the neural network architectures plays an important role and our theory suggests that for nonparametric regression scaling the network depth with the logarithm of the sample size is natural.",OTHERS
+30612,"One Monad to Prove Them All is a modern fairy tale about curiosity and perseverance, two important properties of a successful PhD student.",OTHERS
+30613,We follow the PhD student Mona on her adventure of proving properties about Haskell programs in the proof assistant Coq.,OTHERS
+30618,"Thus, Mona sets out to learn more about the interactive theorem prover Coq and verifying Haskell programs in Coq.",OTHERS
+30631,In order to share the results with other functional programmers the fairy tale is available as a literate Coq file.,OTHERS
+30632,"If you are a citizen of the land of functional programming or are at least familiar with its customs, had a journey that involved reasoning about functional programs of your own, or are just a curious soul looking for the next story about monads and proofs, then this tale is for you.",OTHERS
+30721,Our method does not require any post processing such as refinement with the iterative closest point algorithm.,OTHERS
+30823,"We introduce XtraPuLP, a new distributed-memory graph partitioner designed to process trillion-edge graphs.",OTHERS
+31012,Its special nature make them a fascinating tool to test and validate any new vision model proposed.,OTHERS
+31014,In this paper we get inspiration from the similarity of this structure with the operations present in Convolutional Neural Networks (CNNs).,OTHERS
+31052,"Despite their ostensible simplicity, these questions still remain unanswered, whereas solutions to such problems are essential for testing compilers and optimizing programs whose expected efficiency depends on the size of terms.",OTHERS
+31053,"Our approach toward the afore-mentioned problems may be later extended to any language with bound variables, i.e., with scopes and declarations.",OTHERS
+31060,(Very small!),OTHERS
+31062,(A typable term almost always starts with an abstraction.),OTHERS
+31085,Applications of the proposed method in control and system planning are discussed.,OTHERS
+31095,"Lastly, various experiments with two real world datasets are presented.",OTHERS
+31218,The codes and mobile application will be made available for further research purposes.,OTHERS
+31240,The simulations validate our idea.,OTHERS
+31323,The codes and pretrained models used in this study are publicly available. https://github.com/kenshohara/3D-ResNets-PyTorch,OTHERS
+31363,The MATLAB source code of the proposed metrics is available at https://dl.dropboxusercontent.com/u/74505502/MUG.m and https://dl.dropboxusercontent.com/u/74505502/MUGplus.m.,OTHERS
+31402,A pytorch implementation is available at https://github.com/Prinsphield/ELEGANT.,OTHERS
+31422,"To the best of our knowledge, this work is the first quantitative evaluation of the accuracy of large-scale DNNs on resistive crossbar based hardware.",OTHERS
+31500,healthy or sick).,OTHERS
+31504,However there are many recent papers that seem as though this is the goal.,OTHERS
+31509,"At the end, we will discuss several open problems and future research directions.",OTHERS
+31527,"In this situation, damage recovery can be seen as a Reinforcement Learning (RL) problem.",OTHERS
+31539,Our code and the link for the benchmark dataset downloads are available in our project website. http://github.com/mikacuy/pointnetvlad/,OTHERS
+31576,This article is under consideration for acceptance in TPLP.,OTHERS
+31588,"Multiple users, Alices, send confidential messages to a common legitimate base-station, Bob, in the presence of an eavesdropper, Eve.",OTHERS
+31637,We outline the possible extensions of this architecture and argue on how several problems within the fields of Interactive Rendering and Visualization can benefit from it.,OTHERS
+31881,"However, this metric is used for offline characterisation, which is inappropriate for memory.",OTHERS
+31883,These are reported errors which would have no impact on the program if they were ignored.,OTHERS
+31943,We give a gentle introduction to neural networks and discuss the results of this prediction method when scanning very large test sets for examples of IDP simplices.,OTHERS
+32037,"These outcomes expand the understandings on the usage of the term ""fake news"", helping to comprehend and more accurately characterize this relevant social phenomenon linked to misinformation and manipulation.",OTHERS
+32079,It is available as a VST/AU plugin for use in a Digital Audio Workstation.,OTHERS
+32095,It targets academic researchers and practitioners who are familiar with the PATSTAT database and the MySQL language.,OTHERS
+32195,"In contrast, the problem is known to be solvable in polynomial time for comparability graphs of partially ordered sets with interval dimension at most 2 and height at most 2.",OTHERS
+32275,"Through experimentation on the OASIS MRI dataset, we show that with training size almost 10 times smaller than the state-of-the-art, we reach comparable or even better performance than current deep-learning based methods.",OTHERS
+32476,In general the achieved consensus value will be different to the one obtained by the corresponding DeGroot model,OTHERS
+32523,We hope this work could lead to useful applications which link large corpora of real-world scenes with shoppable products.,OTHERS
+32548,IEEE 802.11.,OTHERS
+32576,"For example, detection of vehicles that violate traffic rules, parking enforcement, etc.",OTHERS
+32597,"Seven emotional states including moderate and intense versions of three emotional families as anger, joy, and sadness, plus a neutral state are considered, with speech samples in Mandarin Chinese.",OTHERS
+32623,"In the paper, the control problem with limitations on the magnitude and rate of the control action in aircraft control systems, is studied.",OTHERS
+32754,We finally discuss implications for future touch-based smartwatch authentication design.,OTHERS
+32776,It is amenable to implementation on parallel hardware and therefore capable of deployment in settings where real-time performance is required.,OTHERS
+32915,An accompanying video is available online at https://youtu.be/B9WM557NP44.,OTHERS
+32922,The Image-J plugin of the proposed method can be found online at http://fluobactracker.inrialpes.fr.,OTHERS
+33013,We conclude by exploring how these insights may inspire new developments in online education.,OTHERS
+33222,"However, V2G is a dynamic system where the participating EVs come and go independently.",OTHERS
+33223,Thus it is not easy to estimate the regulation capacities for V2G.,OTHERS
+33266,"In addition, its importance is further increased with growing uncertainties in the generation sector due to the high penetration of renewable energy and the introduction of demand side management strategies.",OTHERS
+33267,An incremental improvement in grid-level demand forecast of anomalous days can potentially save millions of dollars.,OTHERS
+33282,We release our code for ease of adoption.,OTHERS
+33296,"The isomorphism allows the understanding of Lyapunov exponents in the simplified terms of Information Theory, rather than the traditional definitions in Chaos Theory.",OTHERS
+33403,These extracted VGPs have the potential to improve language and image multimodal tasks such as visual question answering and image captioning.,OTHERS
+33433,"Suppose that Alice and Bob are given each an infinite string, and they want to decide whether their two strings are in a given relation.",OTHERS
+33434,How much communication do they need?,OTHERS
+33535,Meaningful conclusions are finally derived.,OTHERS
+33650,Our implementation is freely available at https://github.com/adalca/papago .,OTHERS
+33758,"Finally, we outline directions to overcome the limitations of the current state-of-the-art.",OTHERS
+33763,This paper is under consideration for publication in Theory and Practice of Logic Programming,OTHERS
+33813,Software architecture (SA) is celebrating 25 years.,OTHERS
+33977,"To complete this work, all the DNNs, as well as the software used for the analysis, are available online.",OTHERS
+34025,"The simulation results are presented to demonstrate the effectiveness of the proposed control strategy in the presence of unknown parameters, unknown nonlinear functions and stochastic disturbances.",OTHERS
+34043,We call this consequentialist conditional cooperation.,OTHERS
+34080,These could then be compounded to provide system-wide inclusion to a wider range of (multi)-impairments.,OTHERS
+34103,"By including prior beliefs, assuming parameters are drawn from a probability distribution, assuming the true value is a random variable for uncertainty intervals, using counter-factual plots for sanity checks, conducting predictive posterior checks, and out of sample predictions, we will better understand the phenomenon being studied, while at the same time avoid the obsession with p-values.",OTHERS
+34355,This article was published in Data Mining and Knowledge Discovery and is accessible at http://dx.doi.org/10.1007/s10618-016-0467-9.,OTHERS
+34365,"To the best of our knowledge, this work is the first to demonstrate the practical benefits of SGX for privacy-preserving CBR.",OTHERS
+34456,"Unfortunately, these recurrences do not lend themselves to a direct recursive computation of the coefficients, owing among other things to a lack of initial conditions.",OTHERS
+34582,We also collected a new multilingual multimodal product description dataset to simulate a real-world international online shopping scenario.,OTHERS
+34673,We motivate this work in the context of broader goals in the field to achieve more explainability in AI.,OTHERS
+34720,"In this paper, we review different methods to design or learn valid kernel functions for multiple outputs, paying particular attention to the connection between probabilistic and functional methods.",OTHERS
+34735,"The implication and potential influence of this study are discussed, and the developed source code with the obtained experimental results are released as open source.",OTHERS
+34754,"However, human preference in regard to living conditions is usually unknown and heterogeneous in its manifestation as control inputs to a building.",OTHERS
+34755,"Furthermore, the occupants of a building typically lack the independent motivation necessary to contribute to and play a key role in the control of smart building infrastructure.",OTHERS
+34831,"However, previous approaches have treated these technique separately.",OTHERS
+34848,"Backdoor sets to heterogeneous base classes can be much smaller than backdoor sets to homogeneous ones, hence they are much more desirable but possibly harder to find.",OTHERS
+34856,Extensive experiments are conducted on four benchmark datasets.,OTHERS
+34993,"This paper explores the use of Pyramid Vector Quantization (PVQ) to reduce the computational cost for a variety of neural networks (NNs) while, at the same time, compressing the weights that describe them.",OTHERS
+34994,This is based on the fact that the dot product between an N dimensional vector of real numbers and an N dimensional PVQ vector can be calculated with only additions and subtractions and one multiplication.,OTHERS
+34995,"This is advantageous since tensor products, commonly used in NNs, can be re-conduced to a dot product or a set of dot products.",OTHERS
+34996,"Finally, it is stressed that any NN architecture that is based on an operation that can be re-conduced to a dot product can benefit from the techniques described here.",OTHERS
+35048,Finally we estimate each food's calorie.,OTHERS
+35164,The paper is self-contained and requires no previous knowledge of parity games.,OTHERS
+35173,The source code of our model is available at https://github.com/yongqyu/TCN.,OTHERS
+35188,Maximova and V.V.,OTHERS
+35189,Rybakov.,OTHERS
+35238,"The input to the problem is an undirected edge-weighted graph with distinguished vertices s and t, and the goal is to find an s-t cut by assigning ""powers"" at the vertices and removing an edge if the sum of the powers at its endpoints is at least its weight.",OTHERS
+35239,The objective is to minimize the sum of the assigned powers.,OTHERS
+35289,Our results are supported by extensive experimentation spanning multiple language families and writing systems.,OTHERS
+35329,"In this article, the authors share their results and challenges during the study.",OTHERS
+35368,(2013) on the WSJ corpus.,OTHERS
+35379,"Via simulations, the proposed algorithm is verified in various mobile environments.",OTHERS
+35606,The strengths and benefits of the proposed method are highlighted by means of two numerical examples.,OTHERS
+35614,Some examples are presented to show the application of the proposed method.,OTHERS
+35654,"Finally, to foster research on this novel phenomenon, we make publicly available to the scientific community all the datasets used in this study.",OTHERS
+35674,The algorithm does not require interference CSI at the base station or uplink users.,OTHERS
+35676,We discuss the potential for using device-to-device side-channels to overcome this limitation in heterogeneous networks.,OTHERS
+35787,"Throughout this work, we place special emphasis on the repeatability of results, the variability in the outcomes and the computational requirements.",OTHERS
+35808,recommender systems.,OTHERS
+35868,It is hoped that our software engineering colleagues will be motivated to conduct more research into the area of software psychology so as to understand more completely the possibilities for increased effectiveness and personal fulfillment among software engineers working alone and in teams.,OTHERS
+35885,"The software main features are generated documentation, context checking and completion, and helpful error management.",OTHERS
+35887,"Along with the description of the technical part of the interface, we try to gather the salient points pertaining to the psychological viewpoint of user experience (ux).",OTHERS
+35888,We point out the differences between user interfaces and pure data management systems such as cgns.,OTHERS
+35914,Our code is available at http://ai.bu.edu/r-c3d/.,OTHERS
+36017,Numerical simulations are presented to demonstrate the performance of the algorithm for both homogeneous and inhomogeneous media.,OTHERS
+36028,As Android's market share is rapidly growing around the world.,OTHERS
+36071,"This paper describes how to obtain accurate 3D body models and texture of arbitrary people from a single, monocular video in which a person is moving.",OTHERS
+36091,Proprotors have conflicting requirement for optimal hover and forward flight performance.,OTHERS
+36098,A proof-of-concept scaled prototype is fabricated using commercial-off-the-shelf parts.,OTHERS
+36246,Codes and trained model can be found in https://github.com/chanyn/HKRM.,OTHERS
+36286,Three original representations are discussed.,OTHERS
+36389,This will facilitate PaaS technology practitioners to have a more deep insight into market trends and technologies.,OTHERS
+36403,Under i.i.d.,OTHERS
+36404,"Rayleigh fading and equal signal-to-noise ratios (SNRs), this occurs for more than five transmitting users.",OTHERS
+36483,Our code and models are available at: https://github.com/szq0214/DSOD .,OTHERS
+36608,This scheme is a very popular practice in aggregated internet connections.,OTHERS
+36645,"In this paper, we attempt to solve such schema integration problem.",OTHERS
+36792,The experiments are conducted on two large public databases with annotations of facial attributes.,OTHERS
+36817,This is the first algorithmic solution to the problem since it was raised more than 30 years ago.,OTHERS
+36846,"Rank-deficient coupling allows exchange of limited state information, which is suitable for study of output coupling in multi-agent systems.",OTHERS
+36854,"As a showcase, we apply the proposed tool to two application problems; distributed state estimation for linear systems, and practical synchronization of heterogeneous Van der Pol oscillators (for which phase cohesiveness is achieved).",OTHERS
+36855,"We also present underlying intuition for two more applications; estimation of the number of nodes in a network, and a problem of distributed optimization.",OTHERS
+37149,Nonetheless fails occur.,OTHERS
+37150,"Sometimes due to pilot misreacting, flooded in information.",OTHERS
+37191,Basic computer vision theory and manufacturing principles are also briefly discussed.,OTHERS
+37246,"This paper is divided in two parts that can be read independently: The first part (main part) presents the model and main results, discusses some applications and sketches the main ideas of the proof.",OTHERS
+37247,The second part (supplementary informations) is much more detailed and provides more examples as well as all the proofs.,OTHERS
+37591,"Additionally, they can ensure that human-robot interaction is more responsive by resolving the problems of CR.",OTHERS
+37594,"We assume that the wireless channel constitutes an observable (by the sensors/network nodes), spatiotemporal, conditionally Gaussian stochastic process, which is statistically dependent on a set of hidden channel parameters, called the channel state.",OTHERS
+37595,"The channel state evolves in time according to a known, non stationary, nonlinear and/or non Gaussian Markov stochastic kernel.",OTHERS
+37596,"This formulation results in a partially observable system, with a temporally varying global state and spatiotemporally varying observations.",OTHERS
+37621,It seems crucial to accelerate research in this direction.,OTHERS
+37631,This paper is under consideration for acceptance in Theory and Practice of Logic Programming.,OTHERS
+37773,"To validate the effectiveness of the proposed Bi-CLSTM framework, we compare it with several state-of-the-art methods, including the CNN framework, on three widely used HSIs.",OTHERS
+37811,The algorithm could be useful for obtaining representations of dimensions smaller than those available up to now to solve numerical problems.,OTHERS
+37971,We provide experimental results demonstrating the advantage of the approach over uncoded and data replication strategies.,OTHERS
+37980,"Our method is verified in various use case experiments, using cutting edge technologies such as 3D representations and precise measurements on surfaces from the acquired 3D models.",OTHERS
+38008,"Code, data, and usage examples are available at https://github.com/mdeff/fma",OTHERS
+38027,This paper presents the Computoser hybrid probability/rule based algorithm for music composition (http://computoser.com) and provides a reference implementation.,OTHERS
+38036,10-millisecond computing raises many challenges for both software and hardware stacks.,OTHERS
+38079,"Nowadays, providing higher data rate is a momentous goal for wireless communications systems.",OTHERS
+38146,Software developers create and share code online to demonstrate programming language concepts and programming tasks.,OTHERS
+38147,"Code snippets can be a useful way to explain and demonstrate a programming concept, but may not always be directly executable.",OTHERS
+38152,"We also present Gistable, a database and extensible framework built on GitHub's gist system, which provides executable code snippets to enable reproducible studies in software engineering.",OTHERS
+38153,"Gistable contains 10,259 code snippets, approximately 5,000 with a Dockerfile to configure and execute them without import error.",OTHERS
+38154,Gistable is publicly available at https://github.com/gistable/gistable.,OTHERS
+38184,"The Cloud radio access network (C-RAN) offers a revolutionary approach to cellular network deployment, management and evolution.",OTHERS
+38187,"OOCRAN, oocran.dynu.com, is a software framework that is based on the NFV MANO architecture proposed by ETSI.",OTHERS
+38301,"Finally, we give an outline of project future activities.",OTHERS
+38404,Obtaining the optimal thresholds for an image by maximizing the entropy is extremely tedious and time consuming with increase in the number of thresholds.,OTHERS
+38421,Our method may have other applications as well.,OTHERS
+38471,This paper introduces a deep learning-based approach that can handle general high-dimensional parabolic PDEs.,OTHERS
+38553,"Finally, we substantiate our analytical derivations with numerical results.",OTHERS
+38587,"The term and its implications, however, are often confusing or misinterpreted.",OTHERS
+38627,"Finally, we provide a possible explanation of the observed variation based on the type of negative constructions in each language.",OTHERS
+38661,The three editions of the challenge organized in 2013--2015 have made THUMOS a common benchmark for action classification and detection and the annual challenge is widely attended by teams from around the world.,OTHERS
+38747,Future AI is expected to amplify the problem even more.,OTHERS
+38828,"Intuitively, it stands to reason that there exists a correlation among the concepts of objects, scenes, and events.",OTHERS
+38908,V1 is a declarative visual query language for schema-based property graphs.,OTHERS
+38909,"V1 supports property graphs with mixed (both directed and undirected) edges and half-edges, with multivalued and composite properties, and with empty property values.",OTHERS
+38910,"V1 supports temporal data types, operators, and functions, and can be extended to support additional data types, operators, and functions (one spatiotemporal model is presented).",OTHERS
+38911,"V1 is generic, concise, has rich expressive power, and is highly receptive and productive.",OTHERS
+38952,From our deep analysis we unreveal important research directions for a next generation of OIE systems.,OTHERS
+38953,A novel Mathematical Random Number Generator (MRNG) is presented here.,OTHERS
+38956,"From those strings, the MRNG also generates random numbers expressed in base 10.",OTHERS
+38980,This paper describes the monomodal and multimodal Neural Machine Translation systems developed by LIUM and CVC for WMT17 Shared Task on Multimodal Translation.,OTHERS
+38994,This paper is under consideration for possible publication on Theory and Practice of Logic Programming.,OTHERS
+39029,This webserver can be accessed at the URL: http://faculty.pieas.edu.pk/fayyaz/software.html#HoPItor.,OTHERS
+39051,Our main contributions are summarized as follows.,OTHERS
+39066,Our approach is based on the geometry of images in RGBXY-space.,OTHERS
+39138,"However, we argue that in many cases it is more important to consider how humans perceive errors in camera estimation.",OTHERS
+39183,"Building on this theoretical foundation, we propose a unified framework for ARQ-based secrecy in Wi-Fi networks.",OTHERS
+39344,"Our hybrid 2D-3D architecture could be more generally applicable to other types of anisotropic 3D images, including video, and our recursive framework for any image labeling problem.",OTHERS
+39390,A video of our experimental results can be found at https://goo.gl/pWbpcF.,OTHERS
+39423,SimplE's code is available on GitHub at https://github.com/Mehran-k/SimplE.,OTHERS
+39496,Our analytical insight is verified by simulation results.,OTHERS
+39519,"This general-purpose solution can also be viewed as a listwise learning to rank approach, which is advantageous compared to recent local ranking approaches.",OTHERS
+39543,The algorithm has been implemented and deployed in a consumer grade Android-based mobile device to evaluate the performance.,OTHERS
+39569,This is relevant when fewer compute resources are available.,OTHERS
+39661,"Our results obtained from this first run in Germany make us confident that the survey design and instrument are well-suited to be replicated and, thereby, to create a generalisable empirical basis of RE in practice.",OTHERS
+39707,This work describes and documents the published BLEBeacon dataset.,OTHERS
+39719,This work only touches the surface of the framework.,OTHERS
+39720,Its power under other conditions is still open.,OTHERS
+40117,The code is available at https://github.com/lanha/DSen2,OTHERS
+40152,"To the best of our knowledge, this is the first attempt to characterize Pinterest at such a large scale.",OTHERS
+40291,"Moreover, the size of the tree is difficult to obtain and it will be different for different active sites.",OTHERS
+40294,"To get variable tree size, a variable-length version of the above algorithm is devised.",OTHERS
+40301,We publish our code and models based on BMXNet for everyone to use.,OTHERS
+40335,"Drawing on the dataset generated in the course of this analysis, as well as web services in the emerging digital history and philosophy of science ecosystem, we have developed an interactive web platform for exploring the content of JHB, and we provide a brief overview of the platform in this article.",OTHERS
+40336,"As a whole, the data and analyses presented here provide a starting-place for further critical reflection on the evolution of the history of biology over the past half-century.",OTHERS
+40368,"All SUs, belonging to a particular multicast group, are served by the CBS using a common primary user (PU) channel.",OTHERS
+40429,We present a novel architectural enhancement of Channel Boosting in deep convolutional neural network (CNN).,OTHERS
+40483,"The class of specifications includes practically important ones such as functional equivalence, associativity, commutativity, distributivity, monotonicity, idempotency, and non-interference.",OTHERS
+40532,This document summarizes the major milestones in mobile Augmented Reality between 1968 and 2014.,OTHERS
+40533,Major parts of the list were compiled by the member of the Christian Doppler Laboratory for Handheld Augmented Reality in 2010 (author list in alphabetical order) for the ISMAR society.,OTHERS
+40534,"Later in 2013 it was updated, and more recent work was added during preparation of this report.",OTHERS
+40535,Permission is granted to copy and modify.,OTHERS
+40627,"Finally, the possible use of MAL in hybrid protocols and the parameters involved in making MAL successful are discussed.",OTHERS
+40716,These works suffer from two key limitations.,OTHERS
+40726,Such points are given the name of Doob random points.,OTHERS
+40827,The ability to design and write computer programs is among the most indispensable skills that a modern researcher can cultivate.,OTHERS
+40859,Its influence is pronounced when we apply the time-frequency analyses to extract the time-varying dynamics hidden inside the signal.,OTHERS
+41020,"In this paper, we present two methods for parsing to a Universal Dependencies graph representation that explicitly encodes the elided material with additional nodes and edges.",OTHERS
+41078,"Keywords: Cognitive Radio, Spectrum Sensing, Signal Detection, Primary User, Secondary User",OTHERS
+41182,"We describe the details of the method and generation system, and then present results of experiments applying our method to probe for compositional information in embeddings from a number of existing sentence composition models.",OTHERS
+41184,"We make available for public use the datasets used for these experiments, as well as the generation system.",OTHERS
+41213,A framework is proposed that can be used by developers to improve the accessibility of an application.,OTHERS
+41214,"The paper also discusses the programming aspects to be considered while developing an Android application, so that the application can be used by sighted as well as visually impaired users.",OTHERS
+41274,We have evaluated existing and proposed features against several kinds of synthetic speech data from ASVspoof 2015 corpora.,OTHERS
+41298,Homepage: https://github.com/wuhuikai/MSC.,OTHERS
+41318,Code and CNN models are available at https://github.com/maups/hydra-fmow,OTHERS
+41562,The CaringBridge (CB) dataset is a massive collection of journals written by patients and caregivers during a health crisis.,OTHERS
+41615,"We hypothesize that the patterns and structure in natural language data enable LSTMs to learn by providing approximate ways of reducing loss, but understanding the effect of different training data on the learnability of LSTMs remains an open question.",OTHERS
+41653,"To demonstrate the advantages of this framework, we present a new sampling algorithm, called Edge Sample and Discard (ESD).",OTHERS
+41655,We provide a comparative analysis of the performance of ESD against two current state-of-the-art algorithms in terms of accuracy and complexity.,OTHERS
+41657,We also characterize the impact of properties of the graph on the performance of our algorithm by testing on several Barabasi-Albert graphs.,OTHERS
+41711,Availability: Quip is freely available under the BSD license from http://cs.washington.edu/homes/dcjones/quip.,OTHERS
+41750,A notable aspect of the review is the use of Python Jupyter notebooks to introduce modern ML/statistical packages to readers using physics-inspired datasets (the Ising Model and Monte-Carlo simulations of supersymmetric decays of proton-proton collisions).,OTHERS
+41752,(Notebooks are available at https://physics.bu.edu/~pankajm/MLnotebooks.html ),OTHERS
+41775,Our code has also been made available at https://github.com/happynear/AMSoftmax,OTHERS
+41792,"In the first class, velocities are given from which displacements are to be solved.",OTHERS
+41793,"In the second class, velocities and accelerations are given from which displacements are to be solved.",OTHERS
+41794,"And in the third class, accelerations are given from which velocities and displacements are to be solved.",OTHERS
+41795,"Two-step methods are not self starting, so compatible one-step methods are provided to take that first step with.",OTHERS
+41796,An algorithm is presented for controlling the step size so that the local truncation error does not exceed a specified tolerance.,OTHERS
+41847,How an information spreads throughout a social network is a valuable knowledge sought by many groups such as marketing enterprises and political parties.,OTHERS
+41848,"If they can somehow predict the impact of a given message or manipulate it in order to amplify how long it will spread, it would give them a huge advantage over their competitors.",OTHERS
+41925,Source code is publicly available at https://imatge-upc.github.io/skiprnn-2017-telecombcn/ .,OTHERS
+41971,We present some numerical results to corroborate our analytical findings and insights are provided for further exploration of the quantized systems with SP.,OTHERS
+42137,The paper is concerned with faults due to inheritance and violation of java constraints.,OTHERS
+42141,This model can be used for predicting software reliability.,OTHERS
+42182,We demonstrate the effectiveness of our proposed techniques by reporting perplexities on a Mandarin-English task and derive significant reductions in perplexity.,OTHERS
+42191,"We test our detector on two public activity detection benchmarks, THUMOS14 and ActivityNet.",OTHERS
+42308,A comprehensive answer to this question remains beyond our reach and the scope of this paper.,OTHERS
+42347,"Furthermore, methodology does not provide accurate estimates of absolute noise levels, but can provide estimates of relative change and/or trends in noise levels.",OTHERS
+42506,"As we (#HackHarassment) complete further rounds of labelling, later iterations of this dataset will increase the available samples by at least an order of magnitude, enabling corresponding improvements in the quality of machine learning models for harassment detection.",OTHERS
+42572,"In other directions, there are promising solutions employing machine learning techniques.",OTHERS
+42573,"However, increasing accuracy requires an increase in system complexity that cannot be endured in many projects.",OTHERS
+42714,The present work is expected to motivate further research in the active quest for absolute zero.,OTHERS
+42780,An open source implementation of our Bayesian CNN sun estimator (Sun-BCNN) using Caffe is available at https://github. com/utiasSTARS/sun-bcnn-vo,OTHERS
+42785,This is mostly beneficial for sequential successive-cancellation list decoders.,OTHERS
+42802,"Currently, for malaria diagnosis the standard technique is microscopic examination of a stained blood film.",OTHERS
+42825,This paper also systematically evaluates Intel's existing countermeasures against SgxPectre Attacks and discusses the security implications.,OTHERS
+42867,A simulation example is given to verify the theoretical results.,OTHERS
+42874,Extensive experiments are studied to access the performance of the proposed method.,OTHERS
+42916,It is to be noted that such an interpretation is not available with feature learning approaches like Deep Learning (such as Convolutional Neural Network) or feature transformation approaches like Principal Component Analysis.,OTHERS
+42979,"In addition, the method can be easily extended to materials carried on top of carrier vessels (i.e., plates, spoons, spatulas).",OTHERS
+42999,Arguments in favour of a computationally mixed approach to linguistic structure will be presented as an alternative that offers advantages to uniform D&C approaches.,OTHERS
+43093,This paper is a preliminary shorter version of a more detailed survey which is work in progress.,OTHERS
+43119,"Here, we focus on one such problem in the domain of robotics.",OTHERS
+43153,WaveFlow source code can be found at github.com/waveflow-team/waveflow,OTHERS
+43164,"Keywords: didactics, information and cybernetic approach, computer modeling of process of training.",OTHERS
+43185,"For a fixed class C of oriented graphs, the orientation completion problem asks whether a given partially oriented graph P can be completed to an oriented graph in C by orienting the (non-oriented) edges in P. Orien- tation completion problems commonly generalize several existing problems including recognition of certain classes of graphs and digraphs as well as extending representations of certain geometrically representable graphs.",OTHERS
+43389,"We evaluate our model's performance on a new dataset containing 10,050 pairs of navigation instructions.",OTHERS
+43422,The database is publicly available at http://live.ece.utexas.edu/research/LIVE_NFLX_II/live_nflx_plus.html.,OTHERS
+43427,Integrat- ing Revolve into a modern python HPC code and combining it with code generation is not straightforward.,OTHERS
+43527,"We present a qualitative and quantitative analysis of the jihadist rhetoric in the corpus, examine the network of Twitter users, outline the technical procedure used to train the system, and discuss examples of use.",OTHERS
+43531,The contribution of this paper is two-fold.,OTHERS
+43589,"The conditions under which this decoupling procedure works are discussed, and the method is illustrated on several numerical examples.",OTHERS
+43609,This paper is under consideration for acceptance in Theory and Practice of Logic Programming.,OTHERS
+43665,Our results inform the relationship between superquantum nonlocality and the collapse of communication complexity.,OTHERS
+43707,Extensive experiments are performed on four challenging datasets.,OTHERS
+43859,Such a review is particularly useful given the rapid expansion of predictive modeling research in MOOCs since the emergence of major MOOC platforms in 2012.,OTHERS
+43867,The system is available at http://www.grupolys.org/software/UUUSA/,OTHERS
+43946,The utilization of web mapping becomes increasingly important in the domain of cartography.,OTHERS
+44249,The code is available at https://github.com/layumi/Person-reID_GAN.,OTHERS
+44361,This dataset along with our baseline implementations is made publicly available for research purposes.,OTHERS
+44407,"However, with such power comes the responsibility of ensuring the correctness of these operations.",OTHERS
+44489,"Protocol 1 requires a file size that is exponential in the number of files in the system, while Protocol 2 requires a file size that is independent of the number of files and is hence simpler.",OTHERS
+44501,"We call this learning mechanism ""theory-driven"", as it explicitly uses domain-specific theories to guide the learning, thus distinguishing itself from purely data-driven supervised learning.",OTHERS
+44559,We call this issue the reference ambiguity.,OTHERS
+44631,An in-depth analysis is carried out between the results of the seeding methods and the vanilla Rolling Horizon Evolution.,OTHERS
+44653,We demonstrate substantial performance gains in terms of mean square error over the base learners through an extensive set of benchmark real data sets and simulated examples.,OTHERS
+44680,"Keywords: Organic worldview, topological representation, tweet locations, natural cities, scaling of geographic space",OTHERS
+44687,"As per our knowledge, this is the first paper to propose a working and scalable deep learning model for this problem.",OTHERS
+44792,These findings motivated us to look more closely at the effects of heroes on software development.,OTHERS
+44799,"In summary, our empirical results call for a revision of a long-held truism in software engineering.",OTHERS
+44826,Our datasets and annotations will be made publicly available.,OTHERS
+44868,Code is available at https://github.com/alldbi/FLM,OTHERS
+44902,(2004).,OTHERS
+44940,Every year UN member states deliver statements during the General Debate on their governments' perspective on major issues in world politics.,OTHERS
+44962,"All texture images, depth images, rendered image pairs in MCL-3D and their MOS values obtained in the subjective test are available to the public (http://mcl.usc.edu/mcl-3d-database/) for future research and development.",OTHERS
+45042,"However, delivery and supplier relationship management are also equally important for a firm in evaluating the supplier.",OTHERS
+45126,"We describe the motivation, setup, and participation of the shared task, provide discussion of some highlighted results, and discuss lessons learned.",OTHERS
+45182,A kind of hidden knowledge extracted from data is association rules.,OTHERS
+45281,We apply our framework to the task of recommending complementary tops for a given bottom clothing item.,OTHERS
+45291,Source code for this study is at https://github.com/robintibor/generative-reversible,OTHERS
+45318,The possibility of creating a training program for the training of students of pedagogical institutes are considered.,OTHERS
+45319,A tower is a sequence of words alternating between two languages in such a way that every word is a subsequence of the following word.,OTHERS
+45320,The height of the tower is the number of words in the sequence.,OTHERS
+45325,"In this case, there is a gap between the lower and upper bound, and the asymptotically optimal bound remains an open problem.",OTHERS
+45526,It involves repeated interaction requiring learning in the form of adaption to the human conversation partner.,OTHERS
+45533,A story that explains some of these is the Social Intelligence Hypothesis.,OTHERS
+45535,"Whilst it is always possible to 'compile' the results of learning into a TM, this would not be a designed TM and would not be able to continually adapt (pass future TTs).",OTHERS
+45635,We need to search the information will specialize tools known generically search engine.,OTHERS
+45653,Our code will be released later.,OTHERS
+45687,"Specifically, we focused on papers and works developed by the Teamcore of University of Southern California, which deepened different directions in this field.",OTHERS
+45688,"After a brief introduction on Stackelberg Security Games (SSGs) and the poaching setting, the rest of the work presents how to model a boundedly rational attacker taking into account her human behavior, then describes how to face the problem of having attacker's payoffs not defined and how to estimate them and, finally, presents how online learning techniques have been exploited to learn a model of the attacker.",OTHERS
+45859,We investigate the abrupt breakdown behavior of coupled distribution grids under load growth.,OTHERS
+45860,This scenario mimics the ever-increasing customer demand and the foreseen introduction of energy hubs interconnecting the different energy vectors.,OTHERS
+45951,Code available at https://github.com/arunmallya/packnet,OTHERS
+45976,We discuss how they are related to distributed systems and other areas of knowledge.,OTHERS
+46112,Applications for such a system include high-speed drone navigation and directing visually impaired pedestrians.,OTHERS
+46192,We evaluate our techniques using meaningful queries on biomedical data.,OTHERS
+46258,Both analytical proof and simulation results are provided to validate exponential convergence of the proposed distributed algorithms in solving linear equations.,OTHERS
+46479,"We further explore the prospects of our approach by applying it on multiple models of the same language and transferring words between the two models, thus solving the problem of missing words in a model.",OTHERS
+46560,The results described in this paper were implemented in the Matlab Toolbox Pessoa which we used to workout several illustrative examples reported in this paper.,OTHERS
+46646,We discuss practical implications of these results and suggest heuristics to cope with privacy concerns when designing IoT systems.,OTHERS
+46661,This dataset could then be used to train a CNN regressor to learn end-to-end stereo object localization from a set of two standard uncalibrated cameras.,OTHERS
+46700,"Although the main aim of the conformalClassification package is to generate CP errors (p-values) for classification problems, the package also implements various diagnostic measures such as deviation from validity, error rate, efficiency, observed fuzziness and calibration plots.",OTHERS
+46701,"In future releases, we plan to extend the package to use other machine learning algorithms, (e.g. support vector machines) for model fitting.",OTHERS
+46712,This transformation is done in two phases.,OTHERS
+46756,We also introduce twenty new potential drug-target pairs for interaction based on high prediction scores.,OTHERS
+46757,Codes Available: https: // github. com/ farshidrayhanuiu/ FRnet-DTI/ Web Implementation: http: // farshidrayhan. pythonanywhere. com/ FRnet-DTI/,OTHERS
+46776,"In this work, we present detailed description of the software.",OTHERS
